@@ -1,0 +1,47 @@
+name: 研究任务
+description: 创建一项可独立推进、可验收的研究任务
+title: "[成员N] "
+labels:
+  - task
+body:
+  - type: dropdown
+    id: workstream
+    attributes:
+      label: 工作线
+      options:
+        - 1号｜数据质量与实验划分
+        - 2号｜TF-IDF关键词模型
+        - 3号｜Sentence-BERT语义模型
+        - 4号｜输入扰动与PPT
+        - 5号｜评估统计与Q&A
+    validations:
+      required: true
+  - type: textarea
+    id: objective
+    attributes:
+      label: 目标
+      description: 用一句话说明这个任务解决什么问题。
+    validations:
+      required: true
+  - type: textarea
+    id: deliverables
+    attributes:
+      label: 交付物
+      description: 写清文件、图表、预测或文档的名称。
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: 验收标准
+      description: 列出可以客观检查的完成条件。
+    validations:
+      required: true
+  - type: textarea
+    id: dependencies
+    attributes:
+      label: 依赖与接口
+      description: 说明需要哪些输入、向谁提供什么输出；没有则写“无”。
+    validations:
+      required: true
+
