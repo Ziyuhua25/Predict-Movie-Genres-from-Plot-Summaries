@@ -37,11 +37,10 @@ git rebase origin/main
 ## 公共接口
 
 - 数据划分只能由 1 号维护；其他成员不得自行重新划分。
-- 预测文件必须遵守 `predictions/README.md` 的 schema。
+- 预测文件必须遵守 `research/predictions/README.md` 的 schema。
 - 图表必须包含标题、坐标含义、指标名称与一句话 takeaway。
 - 每个随机实验记录 `seed`、模型版本和关键超参数。
 
 ## 完成定义
 
 任务只有同时满足以下条件才算完成：代码可运行、输出已保存、复现方法已写、结果已解释、PR 已通过检查。
-
