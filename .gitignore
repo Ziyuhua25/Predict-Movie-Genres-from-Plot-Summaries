@@ -1,0 +1,28 @@
+# Local datasets
+data/raw/
+data/processed/
+*.csv
+
+# Model artifacts and generated arrays
+artifacts/
+*.pkl
+*.joblib
+*.npy
+*.npz
+*.pt
+*.pth
+
+# Python and notebooks
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Generated experiment outputs
+predictions/*.csv
+
+# Local configuration and secrets
+.env
+.DS_Store
+
