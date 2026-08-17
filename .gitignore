@@ -1,28 +1,35 @@
-# Local datasets
+# Raw or generated data
 data/raw/
 data/processed/
 *.csv
-
-# Model artifacts and generated arrays
-artifacts/
+*.tsv
+*.parquet
 *.pkl
+*.pickle
+
+# Models and embeddings
+artifacts/
+models/
+embeddings/
+*.pt
+*.pth
+*.bin
 *.joblib
 *.npy
 *.npz
-*.pt
-*.pth
+
+# Keep approved small result files when explicitly forced with git add -f.
+predictions/*.csv
 
 # Python and notebooks
 __pycache__/
 *.py[cod]
+.pytest_cache/
 .ipynb_checkpoints/
 .venv/
 venv/
 
-# Generated experiment outputs
-predictions/*.csv
-
-# Local configuration and secrets
+# Local configuration and OS files
 .env
 .DS_Store
-
+~$*
