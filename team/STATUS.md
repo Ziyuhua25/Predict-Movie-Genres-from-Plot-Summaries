@@ -6,7 +6,7 @@ GitHub Issues 是任务状态的唯一来源；本页用于汇总五条工作线
 | --- | --- | --- | --- | --- |
 | 数据质量与实验划分 | [#2](https://github.com/Ziyuhua25/Predict-Movie-Genres-from-Plot-Summaries/issues/2) | 待认领 | 未开始 | cleaned data、固定 `splits.csv`、EDA |
 | TF-IDF 关键词模型 | [#3](https://github.com/Ziyuhua25/Predict-Movie-Genres-from-Plot-Summaries/issues/3) | 待认领 | 未开始 | baseline、六类输入预测、关键词案例 |
-| Sentence-BERT 语义模型 | [#4](https://github.com/Ziyuhua25/Predict-Movie-Genres-from-Plot-Summaries/issues/4) | 待认领 | 未开始 | embeddings、六类输入预测、语义案例 |
+| Sentence-BERT 语义模型 | [#4](https://github.com/Ziyuhua25/Predict-Movie-Genres-from-Plot-Summaries/issues/4) | 已认领 | 已开始 | embeddings、六类输入预测、语义案例 |
 | 输入扰动与 PPT | [#5](https://github.com/Ziyuhua25/Predict-Movie-Genres-from-Plot-Summaries/issues/5) | 待认领 | 未开始 | 扰动函数、测试版本、共享 PPT 模板 |
 | 评估统计与 Q&A | [#6](https://github.com/Ziyuhua25/Predict-Movie-Genres-from-Plot-Summaries/issues/6) | 待认领 | 未开始 | 指标脚本、图表模板、Q&A 题库 |
 
