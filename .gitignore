@@ -1,11 +1,13 @@
 # Raw or generated data
-data/raw/
-data/processed/
+research/data/raw/
+research/data/processed/
 *.csv
 *.tsv
 *.parquet
 *.pkl
 *.pickle
+!research/data/splits.csv
+!research/data/genre_mapping.csv
 
 # Models and embeddings
 artifacts/
@@ -19,7 +21,7 @@ embeddings/
 *.npz
 
 # Keep approved small result files when explicitly forced with git add -f.
-predictions/*.csv
+research/predictions/*.csv
 
 # Python and notebooks
 __pycache__/

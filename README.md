@@ -16,7 +16,7 @@
 | 4号 | 输入扰动与 PPT 总负责 | 六类测试输入、扰动质检、最终 PPT 与讲稿 |
 | 5号 | 评估统计与 Q&A 总负责 | 统一指标、结果图表、Q&A 题库与 backup slides |
 
-完整职责与验收标准见 [团队分工方案](docs/TEAM_PLAN.md) 和 [Word 版本](docs/五人分工方案.docx)。
+完整职责与验收标准见 [团队分工方案](team/TEAM_PLAN.md) 和 [Word 版本](team/五人分工方案.docx)。
 
 ## 每日协作方式
 
@@ -36,19 +36,18 @@ member4-perturbation-ppt
 member5-evaluation-qa
 ```
 
-详细 Git 操作见 [CONTRIBUTING.md](CONTRIBUTING.md)，当前进度见 [STATUS.md](STATUS.md)。
+详细 Git 操作见 [协作规则](team/CONTRIBUTING.md)，当前进度见 [项目进度](team/STATUS.md)。
 
 ## 仓库结构
 
 ```text
-data/           数据说明与共享 split；原始数据不提交
-src/            可复用的数据、模型、扰动与评估代码
-notebooks/      探索性分析与模型实验
-predictions/    统一格式的预测结果
-figures/        可直接进入汇报的图表
+research/       数据、代码、notebooks、预测与图表
+team/           五人分工、项目进度与协作规则
 presentation/   PPT、speaker notes 与 Q&A 材料
-docs/           分工、接口与研究设计文档
+.github/        Issue 和 Pull Request 模板
 ```
+
+研究目录的二级分类见 [research/README.md](research/README.md)。
 
 ## 统一预测接口
 
@@ -58,8 +57,8 @@ docs/           分工、接口与研究设计文档
 movie_id, model, variant, seed, genre_id, y_true, y_score, y_pred
 ```
 
-`variant` 统一使用：`original`、`shuffled`、`masked`、`first_25`、`first_50`、`first_75`。具体要求见 [predictions/README.md](predictions/README.md)。
+`variant` 统一使用：`original`、`shuffled`、`masked`、`first_25`、`first_50`、`first_75`。具体要求见 [预测接口](research/predictions/README.md)。
 
 ## 数据规则
 
-仓库不上传 Kaggle 原始 CSV、模型权重或 embeddings。每位成员把数据放在本地 `data/raw/`，并按照 [data/README.md](data/README.md) 复现清洗和划分。
+仓库现有 CSV 已统一归入 `research/data/raw/`。后续不要继续提交大型生成数据、模型权重或 embeddings；清洗和划分规则见 [数据说明](research/data/README.md)。
