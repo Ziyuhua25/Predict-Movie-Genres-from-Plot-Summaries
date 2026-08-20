@@ -1,0 +1,7 @@
+Version,Input,Clean,Stem,Val F1
+V1_overview,overview,True,False,0.4417
+V2_title,title,True,False,0.3049
+V3_title+overview,title + overview,True,False,0.4532
+V4_overview_raw,overview_raw,False,False,0.4467
+V5_title+overview_raw,title_raw + overview_raw,False,False,0.4609
+V6_overview_stem,overview,True,True,0.4383
