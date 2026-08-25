@@ -1,0 +1,13 @@
+{
+  "variant_count": 10,
+  "movies_per_variant": 1198,
+  "all_variants_same_row_count": true,
+  "original_macro_f1": 0.5476366321890084,
+  "original_micro_f1": 0.624383744170553,
+  "validation_macro_f1": 0.5518713716771968,
+  "validation_micro_f1": 0.6249174263442991,
+  "reference_score_max_abs_difference": 7.813577384946369e-05,
+  "reference_scores_match_at_1e_6": false,
+  "reference_prediction_mismatches": 0,
+  "reference_predictions_identical": true
+}

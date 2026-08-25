@@ -1,0 +1,36 @@
+{
+  "encoder": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dimensions": 384,
+  "classifier": "OneVsRestClassifier(LogisticRegression)",
+  "logistic_regression_max_iter": 2000,
+  "seed": 42,
+  "threshold": 0.25,
+  "text_column": "overview",
+  "text_preprocessing": "Convert missing values to empty strings, then collapse whitespace only.",
+  "encoder_frozen": true,
+  "genre_ids_in_model_order": [
+    12,
+    14,
+    16,
+    18,
+    27,
+    28,
+    35,
+    36,
+    37,
+    53,
+    80,
+    878,
+    9648,
+    10402,
+    10749,
+    10751,
+    10752,
+    10770
+  ],
+  "validation_metrics_at_threshold": {
+    "macro_f1": 0.5518713716771968,
+    "micro_f1": 0.6249174263442991
+  },
+  "runtime_device": "mps"
+}
