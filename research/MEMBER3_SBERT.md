@@ -1,84 +1,69 @@
 # Member 3: Sentence-BERT Semantic Model
 
-This workstream studies whether multi-label movie-genre predictions are driven
-by sentence-level semantics or by surface lexical cues.
+This workstream asks a mechanism-oriented question: does SBERT classify movie
+genres from narrative meaning, or does it mainly depend on lexical cues and the
+amount of plot evidence available?
 
-## Technical stack
-
-- Python: NumPy, Pandas, scikit-learn
-- PyTorch and Sentence-Transformers
-- Git and GitHub collaboration
-- Sentence-BERT text representations
-- One-vs-Rest Logistic Regression
-- Data visualization and experimental result communication
-
-## Model
+## Fixed model
 
 - Frozen encoder: `sentence-transformers/all-MiniLM-L6-v2`
 - Representation: one 384-dimensional embedding per plot summary
 - Classifier: 18 One-vs-Rest Logistic Regression heads
 - Seed: `42`
-- Global threshold selected on validation: `0.25`
-- Text preprocessing: collapse whitespace only; no lexical deletion
+- Validation-selected global threshold: `0.25`
+- Preprocessing: collapse whitespace only; do not delete lexical content
 
-## Verified results
+One-vs-Rest is suitable because a movie can have several genres. Each head
+independently estimates whether one genre is present, and the threshold converts
+all 18 probabilities into a multi-label prediction.
+
+## Main performance
 
 | Evaluation | Macro-F1 | Micro-F1 |
 |---|---:|---:|
 | Validation, threshold 0.25 | 0.552 | 0.625 |
-| Fixed test set, threshold 0.25 | 0.548 | 0.624 |
+| Official original test input | 0.548 | 0.624 |
 
 The default validation threshold of 0.50 produced Macro-F1 0.442. Selecting
-0.25 increased validation Macro-F1 by 0.110 without changing the encoder or
-classifier.
+0.25 improved it by 0.110 without changing the representation or classifier.
 
-## Perturbation results
+## Official six-input evaluation
 
-All variants use the same 1,198 test movies and the same frozen model.
+All conditions contain the same 1,198 movies. The already-trained encoder,
+classifier, preprocessing, label order, and threshold remain fixed; the model is
+never refit on a perturbed input.
 
-| Variant | Macro-F1 | Change vs. original |
-|---|---:|---:|
-| Original | 0.548 | 0.000 |
-| Shuffle 25% | 0.538 | -0.010 |
-| Shuffle 50% | 0.528 | -0.019 |
-| Shuffle 100% | 0.535 | -0.012 |
-| Mask 10% | 0.479 | -0.068 |
-| Mask 30% | 0.466 | -0.082 |
-| Mask 50% | 0.451 | -0.097 |
-| Keep 75% of the plot | 0.519 | -0.029 |
-| Keep 50% of the plot | 0.491 | -0.057 |
-| Keep 25% of the plot | 0.420 | -0.128 |
+| Condition | Intervention | Macro-F1 | Micro-F1 | Macro change |
+|---|---|---:|---:|---:|
+| Original | Unchanged plot | 0.548 | 0.624 | 0.000 |
+| Shuffled | All words shuffled within local 10-word windows | 0.535 | 0.623 | -0.012 |
+| Masked | Official highest-weight 50% TF-IDF cue masking | 0.451 | 0.572 | -0.097 |
+| First 75% | Retain the first 75% of plot words | 0.519 | 0.606 | -0.029 |
+| First 50% | Retain the first 50% of plot words | 0.491 | 0.579 | -0.057 |
+| First 25% | Retain the first 25% of plot words | 0.420 | 0.526 | -0.128 |
 
-## Interpretation
+## Mechanistic interpretation
 
-The model is relatively robust to local word-order changes, but it is more
-sensitive to the removal of genre-related cues and plot coverage. The evidence
-supports a limited task-level interpretation: SBERT captures what happens in a
-plot more reliably than how the story is framed. It should not be treated as
-proof of complete semantic or genre understanding.
+Full local shuffling changes Macro-F1 by only -0.012, while official cue
+masking changes it by -0.097 and severe truncation by -0.128. At this task
+level, SBERT is therefore much less dependent on exact local word order than on
+distributed label-related evidence and sufficient narrative coverage.
 
-## Repository locations
+The cautious conclusion is that SBERT behaves like a semantic bag of
+contextual cues for this task. This is perturbation evidence about model
+behavior, not proof of complete language or genre understanding.
 
-- Training pipeline: `research/src/train_sbert.py`
-- Perturbation prediction pipeline: `research/src/run_sbert_perturbations.py`
-- Saved classifier and label encoder: `research/models/sbert_lr/`
-- Predictions: `research/predictions/sbert_lr/`
-- Metrics and verification: `research/results/sbert_lr/`
-- Slides, figures, and scripts: `presentation/member3_sbert/`
+## Reproduce the official evaluation
 
-## Reproduction
-
-Install the packages listed in `research/requirements-sbert.txt`. The
-perturbation runner takes explicit input paths:
+Install `research/requirements-sbert.txt`, then run:
 
 ```bash
-python research/src/run_sbert_perturbations.py \
-  --train-csv PATH/TO/train.csv \
-  --splits-csv research/data/splits.csv \
-  --genre-mapping-csv research/data/genre_mapping.csv \
-  --perturbation-dir PATH/TO/perturbation/data \
+python research/src/predict_sbert_official_six.py \
+  --input-dir research/data/official_six_inputs \
+  --model-dir research/models/sbert_lr \
   --output-dir PATH/TO/output
 ```
 
-The saved configuration in `research/models/sbert_lr/model_config.json` records
-the encoder, threshold, seed, preprocessing, label order, and validation metrics.
+The runner validates all six inputs and loads the saved model; it does not train
+or tune anything. Aggregate metrics are in `research/results/sbert_lr/`, and
+movie-level/label-level predictions are in `research/predictions/sbert_lr/`.

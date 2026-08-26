@@ -1,13 +1,26 @@
 {
-  "variant_count": 10,
+  "official_variant_count": 6,
+  "official_variants": [
+    "original",
+    "shuffled",
+    "masked",
+    "first_25",
+    "first_50",
+    "first_75"
+  ],
   "movies_per_variant": 1198,
-  "all_variants_same_row_count": true,
+  "genres": 18,
+  "long_rows_per_variant": 21564,
+  "combined_long_rows": 129384,
+  "model_refit_on_perturbations": false,
+  "encoder": "sentence-transformers/all-MiniLM-L6-v2",
+  "classifier": "OneVsRestClassifier(LogisticRegression)",
+  "threshold": 0.25,
+  "seed": 42,
+  "runtime_device": "mps",
   "original_macro_f1": 0.5476366321890084,
   "original_micro_f1": 0.624383744170553,
-  "validation_macro_f1": 0.5518713716771968,
-  "validation_micro_f1": 0.6249174263442991,
-  "reference_score_max_abs_difference": 7.813577384946369e-05,
-  "reference_scores_match_at_1e_6": false,
-  "reference_prediction_mismatches": 0,
-  "reference_predictions_identical": true
+  "reference_original_score_max_abs_difference": 2.9800415024539006e-08,
+  "reference_original_prediction_mismatches": 0,
+  "reference_original_predictions_identical": true
 }

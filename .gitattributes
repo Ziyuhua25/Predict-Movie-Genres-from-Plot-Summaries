@@ -1,0 +1,2 @@
+# Preserve the official shared CSV inputs byte-for-byte (including CRLF endings).
+research/data/official_six_inputs/*.csv -text -diff

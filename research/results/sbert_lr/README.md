@@ -1,8 +1,10 @@
-# SBERT Evaluation Results
+# Official six-input SBERT results
 
-- `sbert_perturbation_metrics.csv`: aggregate metrics for the original input and
-  nine perturbation variants
-- `verification.json`: row-count, validation, test, and reproduction checks
+- `sbert_official_six_metrics.csv`: aggregate metrics and changes from original
+- `sbert_official_six_per_genre_metrics.csv`: precision, recall, F1, and support
+  for every genre under every condition
+- `verification.json`: input dimensions, fixed-model settings, and reproduction
+  checks
 
-The regenerated original test labels are identical to the earlier official
-Member 3 prediction export.
+The regenerated original predictions have zero label mismatches against the
+earlier original export. The maximum score difference is below `3e-8`.

@@ -1,0 +1,1199 @@
+movie_id,title,model,variant,predicted_genre_ids,predicted_genres,predicted_label_count
+1210,Control,sbert_lr,shuffled,18;35;10402,Drama; Comedy; Music,3
+1288,Shang-Chi and the Legend of the Ten Rings,sbert_lr,shuffled,12;14;16;18;28,Adventure; Fantasy; Animation; Drama; Action,5
+6147,Dry,sbert_lr,shuffled,18;35,Drama; Comedy,2
+120,Shutter Island,sbert_lr,shuffled,18;28;53;9648;10752,Drama; Action; Thriller; Mystery; War,5
+3105,Galaxy Quest,sbert_lr,shuffled,28;53;878,Action; Thriller; Science Fiction,3
+4250,Spy,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+350,Million Dollar Baby,sbert_lr,shuffled,18;35;10751,Drama; Comedy; Family,3
+6325,Spree,sbert_lr,shuffled,28;35;53,Action; Comedy; Thriller,3
+1898,The Time Machine,sbert_lr,shuffled,12;35;878,Adventure; Comedy; Science Fiction,3
+9290,Survivor,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+9395,The Hunters,sbert_lr,shuffled,12;14;27;28;35;10751,Adventure; Fantasy; Horror; Action; Comedy; Family,6
+7853,Goosebumps 2: Haunted Halloween,sbert_lr,shuffled,27;35;10751,Horror; Comedy; Family,3
+2734,Petite Maman,sbert_lr,shuffled,18;9648,Drama; Mystery,2
+2181,Victor/Victoria,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+8548,Volcano,sbert_lr,shuffled,18;27;35;53;878,Drama; Horror; Comedy; Thriller; Science Fiction,5
+4191,About Schmidt,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+1320,The Rules of the Game,sbert_lr,shuffled,18;35;36,Drama; Comedy; History,3
+1419,The Reader,sbert_lr,shuffled,18;53;10749;10752,Drama; Thriller; Romance; War,4
+1016,In a Lonely Place,sbert_lr,shuffled,18;35;53;80;9648;10749,Drama; Comedy; Thriller; Crime; Mystery; Romance,6
+110,Puss in Boots: The Last Wish,sbert_lr,shuffled,12;14;16;35;10751,Adventure; Fantasy; Animation; Comedy; Family,5
+8307,The 6th Day,sbert_lr,shuffled,12;28;53;878,Adventure; Action; Thriller; Science Fiction,4
+6202,Jackie,sbert_lr,shuffled,18;36;53,Drama; History; Thriller,3
+5861,I'm Not There,sbert_lr,shuffled,18;35;10402,Drama; Comedy; Music,3
+764,Manhattan,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+4105,Margin Call,sbert_lr,shuffled,18;53,Drama; Thriller,2
+6763,Three Floors,sbert_lr,shuffled,18;35,Drama; Comedy,2
+8256,Neuilly Yo Mama!,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+3483,10 Cloverfield Lane,sbert_lr,shuffled,18;27;53;878,Drama; Horror; Thriller; Science Fiction,4
+8226,How to Lose Friends & Alienate People,sbert_lr,shuffled,18;35,Drama; Comedy,2
+4316,Ashfall,sbert_lr,shuffled,12;14;16;28;35;10751,Adventure; Fantasy; Animation; Action; Comedy; Family,6
+3917,Clash of the Titans,sbert_lr,shuffled,12;14;16;28;35;10749,Adventure; Fantasy; Animation; Action; Comedy; Romance,6
+1199,The Train,sbert_lr,shuffled,18;28;53;10752,Drama; Action; Thriller; War,4
+731,Safety Last!,sbert_lr,shuffled,35,Comedy,1
+5218,Rambo: First Blood Part II,sbert_lr,shuffled,12;18;28;53;80;878,Adventure; Drama; Action; Thriller; Crime; Science Fiction,6
+5136,The Trip,sbert_lr,shuffled,35;10749,Comedy; Romance,2
+8940,Henry's Crime,sbert_lr,shuffled,18;53;80,Drama; Thriller; Crime,3
+6940,Archive,sbert_lr,shuffled,18;28;53;878,Drama; Action; Thriller; Science Fiction,4
+4263,Justice League: The New Frontier,sbert_lr,shuffled,12;14;16;28;878,Adventure; Fantasy; Animation; Action; Science Fiction,5
+6066,God Willing,sbert_lr,shuffled,18;35,Drama; Comedy,2
+2945,Gia,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+4732,The Longest Yard,sbert_lr,shuffled,18;53;80,Drama; Thriller; Crime,3
+8744,Phantom,sbert_lr,shuffled,12;18;28;53;9648,Adventure; Drama; Action; Thriller; Mystery,5
+6262,A California Christmas,sbert_lr,shuffled,18;35;10749;10751,Drama; Comedy; Romance; Family,4
+5233,Something's Gotta Give,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+6947,Return of the Hero,sbert_lr,shuffled,12;18;35;10749,Adventure; Drama; Comedy; Romance,4
+6591,The Collection,sbert_lr,shuffled,12;27;28,Adventure; Horror; Action,3
+997,Harold and Maude,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+5071,Pollock,sbert_lr,shuffled,18;35;36,Drama; Comedy; History,3
+8027,Fortress,sbert_lr,shuffled,18;27;53;878,Drama; Horror; Thriller; Science Fiction,4
+9716,17 Girls,sbert_lr,shuffled,35,Comedy,1
+9919,Toys,sbert_lr,shuffled,12;14;35;10751,Adventure; Fantasy; Comedy; Family,4
+8209,House of Wax,sbert_lr,shuffled,12;27;35;878;10751,Adventure; Horror; Comedy; Science Fiction; Family,5
+7139,The Little Shop of Horrors,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+9944,The Phantom,sbert_lr,shuffled,12;14;16;28;35;878;10751,Adventure; Fantasy; Animation; Action; Comedy; Science Fiction; Family,7
+8063,The Brats,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+5046,Patriot Games,sbert_lr,shuffled,18;28;53,Drama; Action; Thriller,3
+293,Barry Lyndon,sbert_lr,shuffled,18;28;35,Drama; Action; Comedy,3
+553,Sunrise: A Song of Two Humans,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+7939,The 51st State,sbert_lr,shuffled,18;35;53;80,Drama; Comedy; Thriller; Crime,4
+4233,Underworld,sbert_lr,shuffled,14;27;28,Fantasy; Horror; Action,3
+9238,Maggie's Plan,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+4951,Harold and the Purple Crayon,sbert_lr,shuffled,12;14;18;35;10751,Adventure; Fantasy; Drama; Comedy; Family,5
+7035,The Assistant,sbert_lr,shuffled,18;53;10749,Drama; Thriller; Romance,3
+8603,Robin Hood,sbert_lr,shuffled,12;14;18;28;36;10752,Adventure; Fantasy; Drama; Action; History; War,6
+3330,Hoosiers,sbert_lr,shuffled,18;35,Drama; Comedy,2
+4255,The Pit and the Pendulum,sbert_lr,shuffled,18;36;9648,Drama; History; Mystery,3
+1293,Training Day,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+540,F1,sbert_lr,shuffled,18;28;35,Drama; Action; Comedy,3
+4235,Barbarian,sbert_lr,shuffled,18;35;53;10749,Drama; Comedy; Thriller; Romance,4
+6601,FernGully: The Last Rainforest,sbert_lr,shuffled,12;14;16;35;10751,Adventure; Fantasy; Animation; Comedy; Family,5
+1973,Spider-Man: Homecoming,sbert_lr,shuffled,12;18;28;878,Adventure; Drama; Action; Science Fiction,4
+6557,Nighthawks,sbert_lr,shuffled,28;53;80,Action; Thriller; Crime,3
+5705,Super Troopers,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+5731,The Witches of Eastwick,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+7665,Push,sbert_lr,shuffled,28;53;80;9648,Action; Thriller; Crime; Mystery,4
+7180,Insidious: The Last Key,sbert_lr,shuffled,18;27;53,Drama; Horror; Thriller,3
+977,Stagecoach,sbert_lr,shuffled,12;18;53,Adventure; Drama; Thriller,3
+9691,Be Cool,sbert_lr,shuffled,18;35;80;10402;10749,Drama; Comedy; Crime; Music; Romance,5
+8418,Tin & Tina,sbert_lr,shuffled,18;27,Drama; Horror,2
+3626,Compartment No. 6,sbert_lr,shuffled,18;53;10749,Drama; Thriller; Romance,3
+2034,Justice League: Crisis on Two Earths,sbert_lr,shuffled,12;14;16;28;878,Adventure; Fantasy; Animation; Action; Science Fiction,5
+4098,The Strange Thing About the Johnsons,sbert_lr,shuffled,18;53,Drama; Thriller,2
+9643,Wanderlust,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+4179,Flight,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+6176,For Love of the Game,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+7119,Taken 3,sbert_lr,shuffled,18;28;53;80;9648,Drama; Action; Thriller; Crime; Mystery,5
+2173,Stardust,sbert_lr,shuffled,12;14;16;18;35;10751,Adventure; Fantasy; Animation; Drama; Comedy; Family,6
+189,The Father,sbert_lr,shuffled,18;10749,Drama; Romance,2
+7372,He Never Died,sbert_lr,shuffled,18;35;53;9648,Drama; Comedy; Thriller; Mystery,4
+1626,Saw,sbert_lr,shuffled,35;53;80,Comedy; Thriller; Crime,3
+563,The Avengers,sbert_lr,shuffled,12;28;53;878,Adventure; Action; Thriller; Science Fiction,4
+1784,Grease,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+6167,Bride & Prejudice,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+7022,Severance,sbert_lr,shuffled,28;35;53,Action; Comedy; Thriller,3
+7046,Child 44,sbert_lr,shuffled,18;53;80;9648,Drama; Thriller; Crime; Mystery,4
+6244,Life,sbert_lr,shuffled,12;35;878,Adventure; Comedy; Science Fiction,3
+1057,10 Things I Hate About You,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+645,The King of Comedy,sbert_lr,shuffled,18;35,Drama; Comedy,2
+371,Don't Look Now... We're Being Shot At!,sbert_lr,shuffled,12;18;28;36;53;10752,Adventure; Drama; Action; History; Thriller; War,6
+5995,Assassins,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+8216,Shaft,sbert_lr,shuffled,18;28;53;80;9648,Drama; Action; Thriller; Crime; Mystery,5
+3421,Wild,sbert_lr,shuffled,18;10749,Drama; Romance,2
+1869,Possession,sbert_lr,shuffled,18;27;53;9648,Drama; Horror; Thriller; Mystery,4
+5536,Star Trek III: The Search for Spock,sbert_lr,shuffled,28;878,Action; Science Fiction,2
+6922,King Arthur,sbert_lr,shuffled,12;14;18;28;36,Adventure; Fantasy; Drama; Action; History,5
+6810,Second Act,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+4033,Mad God,sbert_lr,shuffled,12;14;16;27;28;878,Adventure; Fantasy; Animation; Horror; Action; Science Fiction,6
+8510,She-Devil,sbert_lr,shuffled,18;35;53;10749,Drama; Comedy; Thriller; Romance,4
+8582,The Karate Kid Part III,sbert_lr,shuffled,18;28,Drama; Action,2
+8712,Righteous Kill,sbert_lr,shuffled,18;53;80;9648,Drama; Thriller; Crime; Mystery,4
+1427,Glory,sbert_lr,shuffled,18;36;10752,Drama; History; War,3
+2328,"Planes, Trains and Automobiles",sbert_lr,shuffled,18;35,Drama; Comedy,2
+7303,Chernobyl: Abyss,sbert_lr,shuffled,18;878,Drama; Science Fiction,2
+4803,Escape Plan,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+2657,The Driver,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+530,An Autumn Afternoon,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+3412,The Zone of Interest,sbert_lr,shuffled,14;18;10752,Fantasy; Drama; War,3
+7021,Great Balls of Fire!,sbert_lr,shuffled,18;35;36;10402,Drama; Comedy; History; Music,4
+3863,The Substitute,sbert_lr,shuffled,28;35;53;80,Action; Comedy; Thriller; Crime,4
+769,BPM (Beats per Minute),sbert_lr,shuffled,18;28;53;878,Drama; Action; Thriller; Science Fiction,4
+603,Land of Mine,sbert_lr,shuffled,18;28;36;53;10752,Drama; Action; History; Thriller; War,5
+1826,The Way of the Dragon,sbert_lr,shuffled,12;18;28;35;80,Adventure; Drama; Action; Comedy; Crime,5
+9990,Marmaduke,sbert_lr,shuffled,18;35,Drama; Comedy,2
+5454,Titan A.E.,sbert_lr,shuffled,12;18;28;53;878,Adventure; Drama; Action; Thriller; Science Fiction,5
+4689,King of New York,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+1769,Babylon,sbert_lr,shuffled,18;35,Drama; Comedy,2
+7109,The Noel Diary,sbert_lr,shuffled,18;53;9648,Drama; Thriller; Mystery,3
+7040,Basilicata Coast to Coast,sbert_lr,shuffled,18;35;10402,Drama; Comedy; Music,3
+2951,Bitter Moon,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+4916,Return to Oz,sbert_lr,shuffled,14;18;27,Fantasy; Drama; Horror,3
+8894,6 Below: Miracle on the Mountain,sbert_lr,shuffled,18;28;53,Drama; Action; Thriller,3
+3547,Mamma Mia!,sbert_lr,shuffled,35;10749,Comedy; Romance,2
+4476,Winter's Bone,sbert_lr,shuffled,18;53,Drama; Thriller,2
+5633,Seeking a Friend for the End of the World,sbert_lr,shuffled,35;53;878;10749,Comedy; Thriller; Science Fiction; Romance,4
+3732,The Isle,sbert_lr,shuffled,18;35,Drama; Comedy,2
+9559,The Conference,sbert_lr,shuffled,18;27;28;53;80,Drama; Horror; Action; Thriller; Crime,5
+365,Spider-Man: No Way Home,sbert_lr,shuffled,12;14;16;28;35;878,Adventure; Fantasy; Animation; Action; Comedy; Science Fiction,6
+9417,Admission,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+1174,The Six Triple Eight,sbert_lr,shuffled,18;28;36;10752,Drama; Action; History; War,4
+6956,Bandits,sbert_lr,shuffled,12;18;28;35;53;80,Adventure; Drama; Action; Comedy; Thriller; Crime,6
+259,Amadeus,sbert_lr,shuffled,18;35,Drama; Comedy,2
+5569,Flesh + Blood,sbert_lr,shuffled,12;14;28;35;53,Adventure; Fantasy; Action; Comedy; Thriller,5
+1042,Evangelion: 1.0 You Are (Not) Alone,sbert_lr,shuffled,12;14;16;27;28;878,Adventure; Fantasy; Animation; Horror; Action; Science Fiction,6
+5282,Colombiana,sbert_lr,shuffled,18;53;80;9648,Drama; Thriller; Crime; Mystery,4
+9250,Alvin and the Chipmunks: Chipwrecked,sbert_lr,shuffled,12;16;27;35;878;10751,Adventure; Animation; Horror; Comedy; Science Fiction; Family,6
+7326,There's No Place Like Home,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+475,A Bronx Tale,sbert_lr,shuffled,18;53;80,Drama; Thriller; Crime,3
+7344,Waiting...,sbert_lr,shuffled,28;35;53;80,Action; Comedy; Thriller; Crime,4
+3786,White Chicks,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+6347,Shaft,sbert_lr,shuffled,12;28;53;80;9648,Adventure; Action; Thriller; Crime; Mystery,5
+9922,Mutant Chronicles,sbert_lr,shuffled,12;18;28;53;878,Adventure; Drama; Action; Thriller; Science Fiction,5
+4664,He Got Game,sbert_lr,shuffled,18;35,Drama; Comedy,2
+5439,The Finest Hours,sbert_lr,shuffled,12;18;28;53,Adventure; Drama; Action; Thriller,4
+2950,Cross of Iron,sbert_lr,shuffled,18;28;36;53;10752,Drama; Action; History; Thriller; War,5
+9117,Rules Don't Apply,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+5908,Seoul Station,sbert_lr,shuffled,12;16;27;28;53;878,Adventure; Animation; Horror; Action; Thriller; Science Fiction,6
+8203,Up for Love,sbert_lr,shuffled,18;35;53;10749,Drama; Comedy; Thriller; Romance,4
+6735,"Roman J. Israel, Esq.",sbert_lr,shuffled,18;28;35,Drama; Action; Comedy,3
+2161,Swades,sbert_lr,shuffled,12;18;35;878,Adventure; Drama; Comedy; Science Fiction,4
+1965,All That Heaven Allows,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+21,Fight Club,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+6143,Ice Age: A Mammoth Christmas,sbert_lr,shuffled,12;14;16;35;10751,Adventure; Fantasy; Animation; Comedy; Family,5
+3839,Antwone Fisher,sbert_lr,shuffled,18;53,Drama; Thriller,2
+8704,Cooties,sbert_lr,shuffled,12;27;28;53;878,Adventure; Horror; Action; Thriller; Science Fiction,5
+5092,Charlie Bartlett,sbert_lr,shuffled,18;35,Drama; Comedy,2
+868,A Charlie Brown Christmas,sbert_lr,shuffled,14;16;18;35;10751,Fantasy; Animation; Drama; Comedy; Family,5
+4932,The Stepford Wives,sbert_lr,shuffled,18;35;53;9648;10749,Drama; Comedy; Thriller; Mystery; Romance,5
+5225,Jack Reacher,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+2573,Upgraded,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+3624,A Conspiracy of Faith,sbert_lr,shuffled,18;27;53,Drama; Horror; Thriller,3
+2062,Kung Fu Panda,sbert_lr,shuffled,12;14;16;28;35;10751,Adventure; Fantasy; Animation; Action; Comedy; Family,6
+8654,Men in Black: International,sbert_lr,shuffled,12;28;53;878,Adventure; Action; Thriller; Science Fiction,4
+1791,Asterix & Obelix: Mission Cleopatra,sbert_lr,shuffled,14;18;35,Fantasy; Drama; Comedy,3
+5534,May December,sbert_lr,shuffled,18;10749,Drama; Romance,2
+7704,Crossing Over,sbert_lr,shuffled,18;28,Drama; Action,2
+8983,The Man,sbert_lr,shuffled,18;28;35;53;80;9648,Drama; Action; Comedy; Thriller; Crime; Mystery,6
+5453,Main Hoon Na,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+9626,Leprechaun 2,sbert_lr,shuffled,12;14;28,Adventure; Fantasy; Action,3
+4336,Time After Time,sbert_lr,shuffled,18;28;53;80;878,Drama; Action; Thriller; Crime; Science Fiction,5
+5568,"I Love You, Man",sbert_lr,shuffled,35;10749,Comedy; Romance,2
+8488,An American Werewolf in Paris,sbert_lr,shuffled,27;28;35;878,Horror; Action; Comedy; Science Fiction,4
+4057,Flavors of Youth,sbert_lr,shuffled,18,Drama,1
+3456,The Dressmaker,sbert_lr,shuffled,18;35;10749;10751,Drama; Comedy; Romance; Family,4
+2164,The Seventh Company Has Been Found,sbert_lr,shuffled,12;35;10751,Adventure; Comedy; Family,3
+9966,With Open Arms,sbert_lr,shuffled,18;35,Drama; Comedy,2
+7617,28 Days,sbert_lr,shuffled,18;35;80,Drama; Comedy; Crime,3
+5215,Brother Bear 2,sbert_lr,shuffled,12;14;16;35;10751,Adventure; Fantasy; Animation; Comedy; Family,5
+5899,Thor: The Dark World,sbert_lr,shuffled,12;14;16;28;878,Adventure; Fantasy; Animation; Action; Science Fiction,5
+5683,Trust,sbert_lr,shuffled,18;35;53,Drama; Comedy; Thriller,3
+8688,King Cobra,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+6197,Your Sister's Sister,sbert_lr,shuffled,18;27;35;10749;10751,Drama; Horror; Comedy; Romance; Family,5
+9850,Sleeping Beauty,sbert_lr,shuffled,14;18;27;10749,Fantasy; Drama; Horror; Romance,4
+6159,Judgment Night,sbert_lr,shuffled,18;27;28;53;80,Drama; Horror; Action; Thriller; Crime,5
+3199,Far from Heaven,sbert_lr,shuffled,18;10749,Drama; Romance,2
+8679,Problem Child 2,sbert_lr,shuffled,18;35,Drama; Comedy,2
+1942,High Plains Drifter,sbert_lr,shuffled,28;53;80,Action; Thriller; Crime,3
+9317,The Pact,sbert_lr,shuffled,18;27;53;9648,Drama; Horror; Thriller; Mystery,4
+481,Bad Genius,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+3280,The Proposition,sbert_lr,shuffled,18;53;80,Drama; Thriller; Crime,3
+1169,Moulin Rouge!,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+7475,The Crew,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+6721,Smurfs: The Lost Village,sbert_lr,shuffled,12;14;16;35;10751,Adventure; Fantasy; Animation; Comedy; Family,5
+297,The Passion of Joan of Arc,sbert_lr,shuffled,18;27,Drama; Horror,2
+5367,Suicide Kings,sbert_lr,shuffled,28;35;53;80,Action; Comedy; Thriller; Crime,4
+6173,Super Fuzz,sbert_lr,shuffled,12;28;35;53;878,Adventure; Action; Comedy; Thriller; Science Fiction,5
+7924,Monster Trucks,sbert_lr,shuffled,12;16;28;35;10751,Adventure; Animation; Action; Comedy; Family,5
+2700,Troy,sbert_lr,shuffled,12;18;28;36;10749,Adventure; Drama; Action; History; Romance,5
+4379,Dark Water,sbert_lr,shuffled,18;27;53;9648;10749,Drama; Horror; Thriller; Mystery; Romance,5
+6784,The Wrath of Becky,sbert_lr,shuffled,18;27;28;53,Drama; Horror; Action; Thriller,4
+8228,Kidnapping Mr. Heineken,sbert_lr,shuffled,18;35;80,Drama; Comedy; Crime,3
+5132,JCVD,sbert_lr,shuffled,18;35;80,Drama; Comedy; Crime,3
+9687,Drive-Away Dolls,sbert_lr,shuffled,18;27;35;10749,Drama; Horror; Comedy; Romance,4
+1595,The SpongeBob Movie: Sponge on the Run,sbert_lr,shuffled,12;16;28;35;10751,Adventure; Animation; Action; Comedy; Family,5
+1329,Breaking the Waves,sbert_lr,shuffled,18,Drama,1
+1923,Nowhere,sbert_lr,shuffled,18;53;10752,Drama; Thriller; War,3
+8010,The Pacifier,sbert_lr,shuffled,12;28;53;878,Adventure; Action; Thriller; Science Fiction,4
+5896,Tideland,sbert_lr,shuffled,18;27;53,Drama; Horror; Thriller,3
+6459,Cargo,sbert_lr,shuffled,18;27;53;878,Drama; Horror; Thriller; Science Fiction,4
+9013,Exit Wounds,sbert_lr,shuffled,28;35;53;80,Action; Comedy; Thriller; Crime,4
+3324,Ip Man 3,sbert_lr,shuffled,28;35;53;80,Action; Comedy; Thriller; Crime,4
+5770,Little Monsters,sbert_lr,shuffled,18;27;35,Drama; Horror; Comedy,3
+5902,The Neon Demon,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+3230,Moby Dick,sbert_lr,shuffled,12;18;35,Adventure; Drama; Comedy,3
+285,Song of the Sea,sbert_lr,shuffled,12;14;16;18;10751,Adventure; Fantasy; Animation; Drama; Family,5
+5939,The Jane Austen Book Club,sbert_lr,shuffled,18;10749,Drama; Romance,2
+7077,Extinction,sbert_lr,shuffled,12;14;16;18;27;878,Adventure; Fantasy; Animation; Drama; Horror; Science Fiction,6
+1471,High School of the Dead: Drifters of the Dead,sbert_lr,shuffled,12;27;28;35;53,Adventure; Horror; Action; Comedy; Thriller,5
+4106,Loft,sbert_lr,shuffled,18;53;80;9648;10749,Drama; Thriller; Crime; Mystery; Romance,5
+5257,The Man in the Iron Mask,sbert_lr,shuffled,12;18;28,Adventure; Drama; Action,3
+1837,The Great Gatsby,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+4529,In Her Name,sbert_lr,shuffled,18;53;80,Drama; Thriller; Crime,3
+6063,Colors,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+9741,Incarnate,sbert_lr,shuffled,14;27;53;878,Fantasy; Horror; Thriller; Science Fiction,4
+1257,The Birds,sbert_lr,shuffled,27;28;53,Horror; Action; Thriller,3
+7900,The Night Before,sbert_lr,shuffled,35;10749,Comedy; Romance,2
+4861,Nymphomaniac: Vol. II,sbert_lr,shuffled,18;10749,Drama; Romance,2
+9380,Inside,sbert_lr,shuffled,18;53;80,Drama; Thriller; Crime,3
+145,Good Will Hunting,sbert_lr,shuffled,18;53,Drama; Thriller,2
+2347,Pearl,sbert_lr,shuffled,18;10749,Drama; Romance,2
+1047,Steins;Gate: The Movie - Load Region of Déjà Vu,sbert_lr,shuffled,16;18;28;878,Animation; Drama; Action; Science Fiction,4
+6199,Drag Me to Hell,sbert_lr,shuffled,18;27;53,Drama; Horror; Thriller,3
+2878,The Dark Crystal,sbert_lr,shuffled,12;14;16;27;35;878,Adventure; Fantasy; Animation; Horror; Comedy; Science Fiction,6
+5053,Emily the Criminal,sbert_lr,shuffled,35;53;80,Comedy; Thriller; Crime,3
+3147,I Hate Summer,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+4581,The DUFF,sbert_lr,shuffled,35;10749;10751,Comedy; Romance; Family,3
+5254,White God,sbert_lr,shuffled,14;18;28;10751,Fantasy; Drama; Action; Family,4
+503,Shoplifters,sbert_lr,shuffled,18,Drama,1
+6101,Police Story 4: First Strike,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+7290,Mean Machine,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+9036,Paranormal Activity 2,sbert_lr,shuffled,14;27;35,Fantasy; Horror; Comedy,3
+1097,The Hobbit: The Desolation of Smaug,sbert_lr,shuffled,12;14;16;28;35;10751,Adventure; Fantasy; Animation; Action; Comedy; Family,6
+7192,Ghosts of War,sbert_lr,shuffled,18;27;28;36;10752,Drama; Horror; Action; History; War,5
+826,Black Swan,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+1943,Red River,sbert_lr,shuffled,12;18;37,Adventure; Drama; Western,3
+1783,My Sister's Keeper,sbert_lr,shuffled,18;35,Drama; Comedy,2
+6847,Dark Skies,sbert_lr,shuffled,18;27;53;9648,Drama; Horror; Thriller; Mystery,4
+5990,Mother's Day,sbert_lr,shuffled,18;27;53,Drama; Horror; Thriller,3
+4698,First Love,sbert_lr,shuffled,18;28;80,Drama; Action; Crime,3
+4319,The Ghost Writer,sbert_lr,shuffled,18;35;53;9648,Drama; Comedy; Thriller; Mystery,4
+1309,Almost Famous,sbert_lr,shuffled,18;35;10402;10749,Drama; Comedy; Music; Romance,4
+6541,The Knight Before Christmas,sbert_lr,shuffled,12;14;18;35,Adventure; Fantasy; Drama; Comedy,4
+6728,Doc Hollywood,sbert_lr,shuffled,18;35;53;80,Drama; Comedy; Thriller; Crime,4
+68,Given,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+6565,The Assassin,sbert_lr,shuffled,18;28;53,Drama; Action; Thriller,3
+3340,Lethal Weapon 2,sbert_lr,shuffled,12;18;28;53,Adventure; Drama; Action; Thriller,4
+5380,Conspiracy Theory,sbert_lr,shuffled,28;35;53;878;9648,Action; Comedy; Thriller; Science Fiction; Mystery,5
+5732,The Chronicles of Riddick,sbert_lr,shuffled,12;28;53;878,Adventure; Action; Thriller; Science Fiction,4
+1738,Mad Max 2,sbert_lr,shuffled,12;18;28,Adventure; Drama; Action,3
+9357,My Best Friend's Girl,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+93,Klaus,sbert_lr,shuffled,14;16;35;10751,Fantasy; Animation; Comedy; Family,4
+7555,Murder by Numbers,sbert_lr,shuffled,18;28;53;80;9648,Drama; Action; Thriller; Crime; Mystery,5
+4648,Oedipus Rex,sbert_lr,shuffled,12;18,Adventure; Drama,2
+5928,The Bookshop,sbert_lr,shuffled,18;35,Drama; Comedy,2
+4387,200 Pounds Beauty,sbert_lr,shuffled,16;18;35;10749,Animation; Drama; Comedy; Romance,4
+7601,Splinter,sbert_lr,shuffled,12;27;28;35;53;878;10751,Adventure; Horror; Action; Comedy; Thriller; Science Fiction; Family,7
+8944,Kicking & Screaming,sbert_lr,shuffled,18;35,Drama; Comedy,2
+76,The Intouchables,sbert_lr,shuffled,18;35,Drama; Comedy,2
+2319,Betty Blue,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+7425,The Prince & Me,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+916,Laurence Anyways,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+9369,The Maiden Heist,sbert_lr,shuffled,28;35;53;80,Action; Comedy; Thriller; Crime,4
+4345,An Unfinished Life,sbert_lr,shuffled,18;53,Drama; Thriller,2
+7191,No Escape,sbert_lr,shuffled,12;18;28;53;80,Adventure; Drama; Action; Thriller; Crime,5
+8369,The Marvels,sbert_lr,shuffled,16;35;878;10749;10751,Animation; Comedy; Science Fiction; Romance; Family,5
+2010,Carrie,sbert_lr,shuffled,18;27;53;9648,Drama; Horror; Thriller; Mystery,4
+7722,Happily Mixed Up,sbert_lr,shuffled,18;27;53,Drama; Horror; Thriller,3
+194,The Hunt,sbert_lr,shuffled,18;35,Drama; Comedy,2
+7314,The Other Woman,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+6475,Flypaper,sbert_lr,shuffled,18;28;35;53;80;10749,Drama; Action; Comedy; Thriller; Crime; Romance,6
+9513,Truth or Dare,sbert_lr,shuffled,18;27;35;53,Drama; Horror; Comedy; Thriller,4
+7049,Your Place or Mine,sbert_lr,shuffled,35;10749;10751,Comedy; Romance; Family,3
+6424,Don't Think Twice,sbert_lr,shuffled,18;53,Drama; Thriller,2
+4977,Troll Hunter,sbert_lr,shuffled,27;53,Horror; Thriller,2
+998,Mortal Kombat Legends: Battle of the Realms,sbert_lr,shuffled,12;14;16;28;35;878,Adventure; Fantasy; Animation; Action; Comedy; Science Fiction,6
+6904,Beauty Shop,sbert_lr,shuffled,18;35;53,Drama; Comedy; Thriller,3
+8099,Arcadian,sbert_lr,shuffled,12;27;28;53;878,Adventure; Horror; Action; Thriller; Science Fiction,5
+5448,Silent Hill,sbert_lr,shuffled,18;27;53;9648,Drama; Horror; Thriller; Mystery,4
+9327,Momentum,sbert_lr,shuffled,12;28;53;80;9648,Adventure; Action; Thriller; Crime; Mystery,5
+7114,The Dead Pool,sbert_lr,shuffled,18;35;53;80,Drama; Comedy; Thriller; Crime,4
+3408,Mickey's Twice Upon a Christmas,sbert_lr,shuffled,12;14;16;35;10751,Adventure; Fantasy; Animation; Comedy; Family,5
+5405,The Wizard of Lies,sbert_lr,shuffled,18;35;53;80,Drama; Comedy; Thriller; Crime,4
+2850,Tangled Ever After,sbert_lr,shuffled,16;35;10749;10751,Animation; Comedy; Romance; Family,4
+8088,Sanctum,sbert_lr,shuffled,12;18;28;53;878,Adventure; Drama; Action; Thriller; Science Fiction,5
+2705,Kiss Kiss Bang Bang,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+6846,The Visit,sbert_lr,shuffled,18;27;35,Drama; Horror; Comedy,3
+432,Divorce Italian Style,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+7851,F,sbert_lr,shuffled,18;27;28;53,Drama; Horror; Action; Thriller,4
+4028,Rango,sbert_lr,shuffled,12;16;28;35;53;10751,Adventure; Animation; Action; Comedy; Thriller; Family,6
+1048,The Fault in Our Stars,sbert_lr,shuffled,18;27;878,Drama; Horror; Science Fiction,3
+4923,RED,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+1935,A Nightmare on Elm Street,sbert_lr,shuffled,27;35;53,Horror; Comedy; Thriller,3
+4569,Asterix in Britain,sbert_lr,shuffled,12;14;16;35;10751,Adventure; Fantasy; Animation; Comedy; Family,5
+195,New Gods: Nezha Reborn,sbert_lr,shuffled,18;28;35;878,Drama; Action; Comedy; Science Fiction,4
+4697,Superman II,sbert_lr,shuffled,12;16;28;878,Adventure; Animation; Action; Science Fiction,4
+392,We Are the Nobles,sbert_lr,shuffled,18;35,Drama; Comedy,2
+8213,Alvin and the Chipmunks: The Road Chip,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+6304,Wild Target,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+3110,What's Love Got to Do with It,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+4715,Road House,sbert_lr,shuffled,18;35;53,Drama; Comedy; Thriller,3
+5549,Lionheart,sbert_lr,shuffled,18;28;35;10752,Drama; Action; Comedy; War,4
+2066,Red Dog,sbert_lr,shuffled,12;16;18;35;10751,Adventure; Animation; Drama; Comedy; Family,5
+1716,Rushmore,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+537,The Shadow in My Eye,sbert_lr,shuffled,18;28;36;53;10752,Drama; Action; History; Thriller; War,5
+7092,Legends of Oz: Dorothy's Return,sbert_lr,shuffled,12;14;16;35;10751,Adventure; Fantasy; Animation; Comedy; Family,5
+6211,The Uninvited,sbert_lr,shuffled,18;27;53;9648,Drama; Horror; Thriller; Mystery,4
+4824,Bumblebee,sbert_lr,shuffled,12;16;18;35;10751,Adventure; Animation; Drama; Comedy; Family,5
+2220,Riders of Justice,sbert_lr,shuffled,18;53,Drama; Thriller,2
+2109,Sonic the Hedgehog,sbert_lr,shuffled,12;16;28;35;878;10751,Adventure; Animation; Action; Comedy; Science Fiction; Family,6
+2137,The Fundamentals of Caring,sbert_lr,shuffled,18;35,Drama; Comedy,2
+8471,Alexander,sbert_lr,shuffled,12;16;18;28;36;10752,Adventure; Animation; Drama; Action; History; War,6
+8919,Neighbors 2: Sorority Rising,sbert_lr,shuffled,18;35,Drama; Comedy,2
+7279,Accident Man,sbert_lr,shuffled,28;35;53;80,Action; Comedy; Thriller; Crime,4
+2200,Land of Bad,sbert_lr,shuffled,28;35;53;878,Action; Comedy; Thriller; Science Fiction,4
+954,The Longest Ride,sbert_lr,shuffled,18;10749,Drama; Romance,2
+5846,Dragonslayer,sbert_lr,shuffled,12;14;28;10751,Adventure; Fantasy; Action; Family,4
+2761,Confession of Murder,sbert_lr,shuffled,18;28;53;80;9648,Drama; Action; Thriller; Crime; Mystery,5
+3169,Patriots Day,sbert_lr,shuffled,18;28;53,Drama; Action; Thriller,3
+4930,Night Moves,sbert_lr,shuffled,18;35;53;80;9648,Drama; Comedy; Thriller; Crime; Mystery,5
+7857,V/H/S/94,sbert_lr,shuffled,27;53;878;9648,Horror; Thriller; Science Fiction; Mystery,4
+459,Persepolis,sbert_lr,shuffled,18;36,Drama; History,2
+3793,Nine to Five,sbert_lr,shuffled,18;35;53;80,Drama; Comedy; Thriller; Crime,4
+742,Slumdog Millionaire,sbert_lr,shuffled,18;35;80,Drama; Comedy; Crime,3
+9458,Leatherface,sbert_lr,shuffled,18;27;28;53;80,Drama; Horror; Action; Thriller; Crime,5
+5743,Looking for Eric,sbert_lr,shuffled,18;35,Drama; Comedy,2
+50,American History X,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+2108,Stolen Kisses,sbert_lr,shuffled,18;35,Drama; Comedy,2
+3005,Ariel,sbert_lr,shuffled,18;35;53;80,Drama; Comedy; Thriller; Crime,4
+2698,Monsieur Lazhar,sbert_lr,shuffled,18,Drama,1
+6130,The Love Witch,sbert_lr,shuffled,14;35;10749,Fantasy; Comedy; Romance,3
+2762,House of Sand and Fog,sbert_lr,shuffled,18;35;53;80,Drama; Comedy; Thriller; Crime,4
+8909,Analyze That,sbert_lr,shuffled,18;35;53;80,Drama; Comedy; Thriller; Crime,4
+4555,Kill the Irishman,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+3314,My Neighbors the Yamadas,sbert_lr,shuffled,18;35,Drama; Comedy,2
+6867,Yara,sbert_lr,shuffled,18;27;53,Drama; Horror; Thriller,3
+866,Scooby-Doo on Zombie Island,sbert_lr,shuffled,12;14;16;27;35;10751,Adventure; Fantasy; Animation; Horror; Comedy; Family,6
+5897,Bubba Ho-tep,sbert_lr,shuffled,18;35,Drama; Comedy,2
+3362,An Officer and a Gentleman,sbert_lr,shuffled,18;28;35,Drama; Action; Comedy,3
+5462,Goya's Ghosts,sbert_lr,shuffled,18;28;53,Drama; Action; Thriller,3
+3704,RocknRolla,sbert_lr,shuffled,35;53;80,Comedy; Thriller; Crime,3
+2058,"Good Morning, Vietnam",sbert_lr,shuffled,18;35,Drama; Comedy,2
+3919,Finestkind,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+7768,Ad Astra,sbert_lr,shuffled,18;53;878,Drama; Thriller; Science Fiction,3
+8004,No Filter,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+7957,Kill Your Friends,sbert_lr,shuffled,18;35;53;80,Drama; Comedy; Thriller; Crime,4
+8023,My Life Without Me,sbert_lr,shuffled,18;27;53;9648,Drama; Horror; Thriller; Mystery,4
+8173,Bee Movie,sbert_lr,shuffled,18;35;878,Drama; Comedy; Science Fiction,3
+3737,Fly Away Home,sbert_lr,shuffled,16;18;27;35;10751,Animation; Drama; Horror; Comedy; Family,5
+5273,Aline,sbert_lr,shuffled,18;35;10402;10749,Drama; Comedy; Music; Romance,4
+2229,Jeremiah Johnson,sbert_lr,shuffled,12;18;28,Adventure; Drama; Action,3
+4706,Tucker: The Man and His Dream,sbert_lr,shuffled,18;878,Drama; Science Fiction,2
+9060,We Are What We Are,sbert_lr,shuffled,18;28;53,Drama; Action; Thriller,3
+2063,Duck Soup,sbert_lr,shuffled,18;35,Drama; Comedy,2
+3257,Elephant,sbert_lr,shuffled,18;35,Drama; Comedy,2
+9891,Behaving Badly,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+3808,Project Silence,sbert_lr,shuffled,18;27;28;53;878,Drama; Horror; Action; Thriller; Science Fiction,5
+6370,"My Donkey, My Lover & I",sbert_lr,shuffled,12;18;35;10751,Adventure; Drama; Comedy; Family,4
+863,12 Angry Men,sbert_lr,shuffled,18;80,Drama; Crime,2
+2830,After the Wedding,sbert_lr,shuffled,18;53,Drama; Thriller,2
+6596,The Imaginarium of Doctor Parnassus,sbert_lr,shuffled,12;14;28;35,Adventure; Fantasy; Action; Comedy,4
+7661,Ben 10: Alien Swarm,sbert_lr,shuffled,12;28;53;878,Adventure; Action; Thriller; Science Fiction,4
+9043,Black Sheep,sbert_lr,shuffled,27;53;878,Horror; Thriller; Science Fiction,3
+3112,The Thirteenth Floor,sbert_lr,shuffled,18;35;53,Drama; Comedy; Thriller,3
+6154,Olaf's Frozen Adventure,sbert_lr,shuffled,12;14;16;35;10751,Adventure; Fantasy; Animation; Comedy; Family,5
+1132,Gattaca,sbert_lr,shuffled,35;878,Comedy; Science Fiction,2
+6679,New Kids Turbo,sbert_lr,shuffled,18;35;80,Drama; Comedy; Crime,3
+6352,Operation Christmas Drop,sbert_lr,shuffled,18;28;53,Drama; Action; Thriller,3
+6897,Flushed Away,sbert_lr,shuffled,12;16;18;35;10751,Adventure; Animation; Drama; Comedy; Family,5
+9302,Damaged,sbert_lr,shuffled,18;53;80;9648,Drama; Thriller; Crime; Mystery,4
+4186,Moonstruck,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+9506,Deep Blue Sea 3,sbert_lr,shuffled,12;18;35;878;10751,Adventure; Drama; Comedy; Science Fiction; Family,5
+1553,Scarface,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+8924,Young Adult,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+2655,Identity,sbert_lr,shuffled,27;53,Horror; Thriller,2
+9460,Family Pack,sbert_lr,shuffled,12;14;16;27;28;35;10751,Adventure; Fantasy; Animation; Horror; Action; Comedy; Family,7
+919,Vampire Hunter D: Bloodlust,sbert_lr,shuffled,35,Comedy,1
+2957,A Writer's Odyssey,sbert_lr,shuffled,12;14;16;18;28,Adventure; Fantasy; Animation; Drama; Action,5
+5598,Who You Think I Am,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+9215,Porky's II: The Next Day,sbert_lr,shuffled,18;27;35,Drama; Horror; Comedy,3
+9951,Havoc,sbert_lr,shuffled,18;35;80,Drama; Comedy; Crime,3
+5870,Turbo Kid,sbert_lr,shuffled,12;18;28,Adventure; Drama; Action,3
+2826,The Rock,sbert_lr,shuffled,18;28;53;80;878,Drama; Action; Thriller; Crime; Science Fiction,5
+4831,Dreamgirls,sbert_lr,shuffled,18;35;10402;10749,Drama; Comedy; Music; Romance,4
+899,Onward,sbert_lr,shuffled,12;14;16;35;10751,Adventure; Fantasy; Animation; Comedy; Family,5
+7350,Alice and the Mayor,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+5022,Yes Man,sbert_lr,shuffled,18;35,Drama; Comedy,2
+8371,When in Rome,sbert_lr,shuffled,18;35;10749;10751,Drama; Comedy; Romance; Family,4
+3153,SPY x FAMILY CODE: White,sbert_lr,shuffled,12;35;53,Adventure; Comedy; Thriller,3
+6119,Bridget Jones: Mad About the Boy,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+6726,The Only Living Boy in New York,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+6890,Dead in a Week (Or Your Money Back),sbert_lr,shuffled,18;35;53,Drama; Comedy; Thriller,3
+53,Princess Mononoke,sbert_lr,shuffled,12;14;16;27;28,Adventure; Fantasy; Animation; Horror; Action,5
+4530,Perfect Addiction,sbert_lr,shuffled,18;28,Drama; Action,2
+7321,Megan Is Missing,sbert_lr,shuffled,18;35;53;10749,Drama; Comedy; Thriller; Romance,4
+7738,Housesitter,sbert_lr,shuffled,18;35,Drama; Comedy,2
+1058,The Wizard of Oz,sbert_lr,shuffled,12;14;16;10751,Adventure; Fantasy; Animation; Family,4
+7960,Duplex,sbert_lr,shuffled,27;35;10749;10751,Horror; Comedy; Romance; Family,4
+3944,The Hidden,sbert_lr,shuffled,18;35;53;80,Drama; Comedy; Thriller; Crime,4
+5543,Ender's Game,sbert_lr,shuffled,12;16;18;28;878;10751,Adventure; Animation; Drama; Action; Science Fiction; Family,6
+4162,Denial,sbert_lr,shuffled,18;36,Drama; History,2
+290,Citizen Kane,sbert_lr,shuffled,18,Drama,1
+717,Gran Turismo,sbert_lr,shuffled,12;18;35;10751,Adventure; Drama; Comedy; Family,4
+584,Spotlight,sbert_lr,shuffled,18;27;53,Drama; Horror; Thriller,3
+3508,This Must Be the Place,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+1103,Spies in Disguise,sbert_lr,shuffled,12;18;28;35,Adventure; Drama; Action; Comedy,4
+7365,The Night Clerk,sbert_lr,shuffled,18;35;53;80;9648,Drama; Comedy; Thriller; Crime; Mystery,5
+7951,The SpongeBob Movie: Sponge Out of Water,sbert_lr,shuffled,12;14;16;28;35;10751,Adventure; Fantasy; Animation; Action; Comedy; Family,6
+1112,"Girl, Interrupted",sbert_lr,shuffled,14;18;10749,Fantasy; Drama; Romance,3
+8563,Curse of Chucky,sbert_lr,shuffled,27;53;9648,Horror; Thriller; Mystery,3
+8522,Pyewacket,sbert_lr,shuffled,14;18;27;53;9648,Fantasy; Drama; Horror; Thriller; Mystery,5
+4553,Anna and the King,sbert_lr,shuffled,18;36;10749,Drama; History; Romance,3
+5111,The Spiderwick Chronicles,sbert_lr,shuffled,12;14;16;35;10751,Adventure; Fantasy; Animation; Comedy; Family,5
+9159,Arthur and the Revenge of Maltazard,sbert_lr,shuffled,12;14;35,Adventure; Fantasy; Comedy,3
+8686,Line of Duty,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+542,Two Women,sbert_lr,shuffled,18;10752,Drama; War,2
+5531,Star Wars: Episode II - Attack of the Clones,sbert_lr,shuffled,12;16;18;28;878,Adventure; Animation; Drama; Action; Science Fiction,5
+5529,House of Gucci,sbert_lr,shuffled,18;35,Drama; Comedy,2
+1683,Boys Don't Cry,sbert_lr,shuffled,18;10749,Drama; Romance,2
+8472,"Farewell, My Queen",sbert_lr,shuffled,18;36;10749,Drama; History; Romance,3
+4976,Time Freak,sbert_lr,shuffled,18;35;878;10749,Drama; Comedy; Science Fiction; Romance,4
+5687,Fragile,sbert_lr,shuffled,18;27;53;9648,Drama; Horror; Thriller; Mystery,4
+2550,The Animatrix,sbert_lr,shuffled,12;16;18;28;35;878,Adventure; Animation; Drama; Action; Comedy; Science Fiction,6
+5810,Ramona and Beezus,sbert_lr,shuffled,14;16;18;35;10751,Fantasy; Animation; Drama; Comedy; Family,5
+4386,The Women on the 6th Floor,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+7751,Big Trouble,sbert_lr,shuffled,18;35;80,Drama; Comedy; Crime,3
+995,The Others,sbert_lr,shuffled,14;18;27;53;9648,Fantasy; Drama; Horror; Thriller; Mystery,5
+4023,Mike's New Car,sbert_lr,shuffled,35;10751,Comedy; Family,2
+6574,Baba Yaga: Terror of the Dark Forest,sbert_lr,shuffled,16;27;35;9648;10751,Animation; Horror; Comedy; Mystery; Family,5
+3210,Futurama: Into the Wild Green Yonder,sbert_lr,shuffled,12;14;28;878,Adventure; Fantasy; Action; Science Fiction,4
+402,Amélie,sbert_lr,shuffled,14;18;35;10749,Fantasy; Drama; Comedy; Romance,4
+7862,The Zero Theorem,sbert_lr,shuffled,18;53;878,Drama; Thriller; Science Fiction,3
+4335,The Dry,sbert_lr,shuffled,18;35,Drama; Comedy,2
+9059,A Christmas Horror Story,sbert_lr,shuffled,35;10751,Comedy; Family,2
+7776,Cocktail,sbert_lr,shuffled,18;35;80;10402,Drama; Comedy; Crime; Music,4
+1341,Boyhood,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+6666,Octopussy,sbert_lr,shuffled,12;28;53;80,Adventure; Action; Thriller; Crime,4
+2993,Welcome to the Dollhouse,sbert_lr,shuffled,18;35,Drama; Comedy,2
+6943,Mighty Joe Young,sbert_lr,shuffled,18;27;53,Drama; Horror; Thriller,3
+3669,Insomnia,sbert_lr,shuffled,27;53;80;9648,Horror; Thriller; Crime; Mystery,4
+1993,The Magnificent Ambersons,sbert_lr,shuffled,14;18;35;10749,Fantasy; Drama; Comedy; Romance,4
+7315,Knight and Day,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+3411,The High Note,sbert_lr,shuffled,18;35;10402;10749;10751,Drama; Comedy; Music; Romance; Family,5
+9198,Red Planet,sbert_lr,shuffled,12;28;53;878,Adventure; Action; Thriller; Science Fiction,4
+4056,Hellraiser,sbert_lr,shuffled,12;14;18;35;10751,Adventure; Fantasy; Drama; Comedy; Family,5
+286,Robot Dreams,sbert_lr,shuffled,16;18;35;878;10749;10751,Animation; Drama; Comedy; Science Fiction; Romance; Family,6
+5815,RED 2,sbert_lr,shuffled,18;28;35;878,Drama; Action; Comedy; Science Fiction,4
+8807,Sgt. Bilko,sbert_lr,shuffled,18;28;35;10752,Drama; Action; Comedy; War,4
+6362,Drop,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+2517,Maria Full of Grace,sbert_lr,shuffled,18;35;80,Drama; Comedy; Crime,3
+7212,Sky High,sbert_lr,shuffled,12;14;16;18;28;878,Adventure; Fantasy; Animation; Drama; Action; Science Fiction,6
+3346,After We Fell,sbert_lr,shuffled,18;35;53;10749,Drama; Comedy; Thriller; Romance,4
+1720,Once Were Warriors,sbert_lr,shuffled,18,Drama,1
+714,Notorious,sbert_lr,shuffled,18;28;53;80;10752,Drama; Action; Thriller; Crime; War,5
+1554,Erin Brockovich,sbert_lr,shuffled,18;35;53,Drama; Comedy; Thriller,3
+8887,Fading Gigolo,sbert_lr,shuffled,18;35;80;10749,Drama; Comedy; Crime; Romance,4
+9701,Forces of Nature,sbert_lr,shuffled,12;35;10749,Adventure; Comedy; Romance,3
+178,Portrait of a Lady on Fire,sbert_lr,shuffled,18;10749,Drama; Romance,2
+304,Sound of Freedom,sbert_lr,shuffled,18;53,Drama; Thriller,2
+3262,Apollo 10½: A Space Age Childhood,sbert_lr,shuffled,12;14;18;35;10751,Adventure; Fantasy; Drama; Comedy; Family,5
+4420,Black or White,sbert_lr,shuffled,18,Drama,1
+2071,Dog,sbert_lr,shuffled,12;18,Adventure; Drama,2
+7008,Cannibal Holocaust,sbert_lr,shuffled,12;18;28;878,Adventure; Drama; Action; Science Fiction,4
+5176,House of Usher,sbert_lr,shuffled,18;27,Drama; Horror,2
+5834,The Ref,sbert_lr,shuffled,18;27;35;53;80,Drama; Horror; Comedy; Thriller; Crime,5
+7352,Zambezia,sbert_lr,shuffled,12;16;18;10751,Adventure; Animation; Drama; Family,4
+9847,Slumber,sbert_lr,shuffled,14;27;35;53,Fantasy; Horror; Comedy; Thriller,4
+2049,Deliverance,sbert_lr,shuffled,18;53,Drama; Thriller,2
+3354,C'est la vie!,sbert_lr,shuffled,35;10749,Comedy; Romance,2
+1715,Hour of the Wolf,sbert_lr,shuffled,18;35;53;10749,Drama; Comedy; Thriller; Romance,4
+6888,Bad Taste,sbert_lr,shuffled,12;16;28;35;878,Adventure; Animation; Action; Comedy; Science Fiction,5
+9031,Big Momma's House 2,sbert_lr,shuffled,28;35;10751,Action; Comedy; Family,3
+5442,Brewster's Millions,sbert_lr,shuffled,35;53,Comedy; Thriller,2
+5007,The Return,sbert_lr,shuffled,18;27,Drama; Horror,2
+1430,Fist of Legend,sbert_lr,shuffled,18;28,Drama; Action,2
+2489,Little Manhattan,sbert_lr,shuffled,14;18;35,Fantasy; Drama; Comedy,3
+2545,Time to Hunt,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+4713,Germinal,sbert_lr,shuffled,18;36;53;80,Drama; History; Thriller; Crime,4
+1146,Inside Out 2,sbert_lr,shuffled,18;27;35;53;9648,Drama; Horror; Comedy; Thriller; Mystery,5
+8853,Replicant,sbert_lr,shuffled,27;28;35;53;80;878,Horror; Action; Comedy; Thriller; Crime; Science Fiction,6
+6468,Baggio: The Divine Ponytail,sbert_lr,shuffled,18;35,Drama; Comedy,2
+3347,One Night in Miami...,sbert_lr,shuffled,18;28;36,Drama; Action; History,3
+1334,Band of Outsiders,sbert_lr,shuffled,18;35,Drama; Comedy,2
+9438,Diana,sbert_lr,shuffled,18;10749,Drama; Romance,2
+967,The Turin Horse,sbert_lr,shuffled,18,Drama,1
+8297,Anon,sbert_lr,shuffled,18;53;80;9648,Drama; Thriller; Crime; Mystery,4
+5244,Contagion,sbert_lr,shuffled,27;28;53;878,Horror; Action; Thriller; Science Fiction,4
+4592,Teen Beach 2,sbert_lr,shuffled,18;35;10751,Drama; Comedy; Family,3
+8526,Thanks for Sharing,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+9994,Hollywood Homicide,sbert_lr,shuffled,18;35;80;10749,Drama; Comedy; Crime; Romance,4
+496,Perfect Strangers,sbert_lr,shuffled,18;35,Drama; Comedy,2
+971,Sniper: The White Raven,sbert_lr,shuffled,18;28;10752,Drama; Action; War,3
+7663,That Awkward Moment,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+9161,Urban Legend,sbert_lr,shuffled,18;27;53;80;9648,Drama; Horror; Thriller; Crime; Mystery,5
+3785,Streets of Fire,sbert_lr,shuffled,35;10749,Comedy; Romance,2
+9172,The Midnight Sky,sbert_lr,shuffled,12;18;35;53;878,Adventure; Drama; Comedy; Thriller; Science Fiction,5
+4882,Boiler Room,sbert_lr,shuffled,18;35,Drama; Comedy,2
+7824,Trouble at Timpetill,sbert_lr,shuffled,18;27,Drama; Horror,2
+2979,Lamp Life,sbert_lr,shuffled,16;18;35;10751,Animation; Drama; Comedy; Family,4
+8429,The Oxford Murders,sbert_lr,shuffled,18;27;53;80;9648,Drama; Horror; Thriller; Crime; Mystery,5
+1654,They Call Me Jeeg,sbert_lr,shuffled,12;28;35;878,Adventure; Action; Comedy; Science Fiction,4
+7583,Never Been Kissed,sbert_lr,shuffled,18;35;80;10749,Drama; Comedy; Crime; Romance,4
+5921,The Invisible Guardian,sbert_lr,shuffled,14;18;27;9648,Fantasy; Drama; Horror; Mystery,4
+8963,Robinson Crusoe,sbert_lr,shuffled,12;14;16;35;10751,Adventure; Fantasy; Animation; Comedy; Family,5
+382,"Batman: The Dark Knight Returns, Part 2",sbert_lr,shuffled,16;28;878,Animation; Action; Science Fiction,3
+1746,Law Abiding Citizen,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+7134,Ant-Man and the Wasp: Quantumania,sbert_lr,shuffled,35;878,Comedy; Science Fiction,2
+1215,The Second Tragic Fantozzi,sbert_lr,shuffled,18;35,Drama; Comedy,2
+7345,Jigsaw,sbert_lr,shuffled,27;28;53;80;878;9648,Horror; Action; Thriller; Crime; Science Fiction; Mystery,6
+2859,Matthias & Maxime,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+2502,The Ten Commandments: The Movie,sbert_lr,shuffled,12;18;36,Adventure; Drama; History,3
+1396,Birdman of Alcatraz,sbert_lr,shuffled,18;53;80;9648,Drama; Thriller; Crime; Mystery,4
+1465,The Croods: A New Age,sbert_lr,shuffled,12;16;18;27;35;10751,Adventure; Animation; Drama; Horror; Comedy; Family,6
+5305,Valerian and the City of a Thousand Planets,sbert_lr,shuffled,12;18;28;53;878,Adventure; Drama; Action; Thriller; Science Fiction,5
+4897,Just Go with It,sbert_lr,shuffled,18;35;53;10749,Drama; Comedy; Thriller; Romance,4
+1598,Trinity Is Still My Name,sbert_lr,shuffled,28;35;80,Action; Comedy; Crime,3
+4615,Primer,sbert_lr,shuffled,18;878,Drama; Science Fiction,2
+9232,The Art of War,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+5315,Mr. Morgan's Last Love,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+1609,American Me,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+6534,Creep,sbert_lr,shuffled,18;35;80,Drama; Comedy; Crime,3
+3561,The White Tiger,sbert_lr,shuffled,12;18;28;35,Adventure; Drama; Action; Comedy,4
+3143,The Matrix Reloaded,sbert_lr,shuffled,12;28;53;878,Adventure; Action; Thriller; Science Fiction,4
+1986,Just Another Christmas,sbert_lr,shuffled,35;10751,Comedy; Family,2
+8285,Flight of the Phoenix,sbert_lr,shuffled,12;16;18;28;35;878,Adventure; Animation; Drama; Action; Comedy; Science Fiction,6
+8843,The Big Wedding,sbert_lr,shuffled,35;10749,Comedy; Romance,2
+1234,The Girl with the Dragon Tattoo,sbert_lr,shuffled,18;53;9648,Drama; Thriller; Mystery,3
+4540,Battlestar Galactica: The Plan,sbert_lr,shuffled,28;53;878,Action; Thriller; Science Fiction,3
+5519,The Lord of the Rings,sbert_lr,shuffled,12;14;16;28;878,Adventure; Fantasy; Animation; Action; Science Fiction,5
+3791,Tracks,sbert_lr,shuffled,12;16;18;35;10751,Adventure; Animation; Drama; Comedy; Family,5
+1189,Let the Right One In,sbert_lr,shuffled,18;35,Drama; Comedy,2
+9436,Max Steel,sbert_lr,shuffled,12;16;28;35;878;10751,Adventure; Animation; Action; Comedy; Science Fiction; Family,6
+4641,Jersey Boys,sbert_lr,shuffled,18;35;10402;10749,Drama; Comedy; Music; Romance,4
+4769,The Fog,sbert_lr,shuffled,14;18;27;35;53;9648,Fantasy; Drama; Horror; Comedy; Thriller; Mystery,6
+5031,Meet the Parents,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+7593,Jumper,sbert_lr,shuffled,12;18;35;878;10751,Adventure; Drama; Comedy; Science Fiction; Family,5
+7709,The Amityville Horror,sbert_lr,shuffled,18;35,Drama; Comedy,2
+8969,Fantastic Four,sbert_lr,shuffled,12;14;28;878,Adventure; Fantasy; Action; Science Fiction,4
+6047,The Last Days of American Crime,sbert_lr,shuffled,18;28;53;80;878,Drama; Action; Thriller; Crime; Science Fiction,5
+7284,Bridget Jones: The Edge of Reason,sbert_lr,shuffled,18;35;53;80;10749,Drama; Comedy; Thriller; Crime; Romance,5
+8021,Sleepover,sbert_lr,shuffled,35;10751,Comedy; Family,2
+7868,Village of the Damned,sbert_lr,shuffled,18;27,Drama; Horror,2
+6837,Bend It Like Beckham,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+2632,Invictus,sbert_lr,shuffled,18;35;36,Drama; Comedy; History,3
+1775,Burning,sbert_lr,shuffled,12;18;35;10749;10751,Adventure; Drama; Comedy; Romance; Family,5
+6545,Wonder Wheel,sbert_lr,shuffled,18;35;10751,Drama; Comedy; Family,3
+8751,The Spy Next Door,sbert_lr,shuffled,18;35;53;80,Drama; Comedy; Thriller; Crime,4
+5118,Back to Black,sbert_lr,shuffled,18;35;10402;10749,Drama; Comedy; Music; Romance,4
+1843,The Big Short,sbert_lr,shuffled,18;28;35;36,Drama; Action; Comedy; History,4
+4243,The Man Who Invented Christmas,sbert_lr,shuffled,14;18;35;10749;10751,Fantasy; Drama; Comedy; Romance; Family,5
+7744,Once Upon a Time in Bethlehem,sbert_lr,shuffled,12;14;16;27;35;878,Adventure; Fantasy; Animation; Horror; Comedy; Science Fiction,6
+9752,Poison Ivy,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+2286,Star Wars: The Force Awakens,sbert_lr,shuffled,12;16;28;878;10752,Adventure; Animation; Action; Science Fiction; War,5
+7217,"Marry Me, Dude",sbert_lr,shuffled,18;35;80,Drama; Comedy; Crime,3
+2203,Heathers,sbert_lr,shuffled,18;35,Drama; Comedy,2
+8900,Big Momma's House,sbert_lr,shuffled,28;35,Action; Comedy,2
+6554,The Awakening,sbert_lr,shuffled,18;27;53;9648,Drama; Horror; Thriller; Mystery,4
+2003,The Sea Beast,sbert_lr,shuffled,12;14;16;28;878;10751,Adventure; Fantasy; Animation; Action; Science Fiction; Family,6
+1265,Tell It to the Bees,sbert_lr,shuffled,18;35;10751,Drama; Comedy; Family,3
+3555,The Amateur,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+2763,Peter Pan,sbert_lr,shuffled,12;14;16;35;10751,Adventure; Fantasy; Animation; Comedy; Family,5
+755,The Sound of Music,sbert_lr,shuffled,18;35;10749;10752,Drama; Comedy; Romance; War,4
+8019,French Twist,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+5983,Kinds of Kindness,sbert_lr,shuffled,14;18;35,Fantasy; Drama; Comedy,3
+6710,The Good Shepherd,sbert_lr,shuffled,18,Drama,1
+5045,Geek Charming,sbert_lr,shuffled,35;10749,Comedy; Romance,2
+8534,The Specialist,sbert_lr,shuffled,28;35;53;80,Action; Comedy; Thriller; Crime,4
+3843,Crazy Heart,sbert_lr,shuffled,18;35;10402;10749,Drama; Comedy; Music; Romance,4
+6830,The Bar,sbert_lr,shuffled,18;27;53;80;9648,Drama; Horror; Thriller; Crime; Mystery,5
+6072,The Manchurian Candidate,sbert_lr,shuffled,18;28;53;10752,Drama; Action; Thriller; War,4
+9814,Downsizing,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+7982,Justice League,sbert_lr,shuffled,12;14;16;28;35;878;10751,Adventure; Fantasy; Animation; Action; Comedy; Science Fiction; Family,7
+3996,Saboteur,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+651,Dune,sbert_lr,shuffled,12;18;28;878,Adventure; Drama; Action; Science Fiction,4
+555,A Fistful of Dollars,sbert_lr,shuffled,12;18;28;53;80,Adventure; Drama; Action; Thriller; Crime,5
+2284,The Hurt Locker,sbert_lr,shuffled,18;28;35;10752,Drama; Action; Comedy; War,4
+3708,The Angels' Share,sbert_lr,shuffled,18;35;80,Drama; Comedy; Crime,3
+6832,The Immigrant,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+40,Se7en,sbert_lr,shuffled,27;28;53;80;9648,Horror; Action; Thriller; Crime; Mystery,5
+1083,Brother,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+3234,Red One,sbert_lr,shuffled,12;14;16;28;35;53;10751,Adventure; Fantasy; Animation; Action; Comedy; Thriller; Family,7
+8155,Despite Everything,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+92,Avengers: Infinity War,sbert_lr,shuffled,12;14;16;28;878,Adventure; Fantasy; Animation; Action; Science Fiction,5
+1154,We Need to Talk About Kevin,sbert_lr,shuffled,18;27,Drama; Horror,2
+5901,Revenge,sbert_lr,shuffled,18;35;53;10749,Drama; Comedy; Thriller; Romance,4
+521,Dances with Wolves,sbert_lr,shuffled,18;53,Drama; Thriller,2
+7454,Elizabethtown,sbert_lr,shuffled,18;35;53,Drama; Comedy; Thriller,3
+2694,Boyka: Undisputed IV,sbert_lr,shuffled,16;28;80,Animation; Action; Crime,3
+8724,Beverly Hills Cop III,sbert_lr,shuffled,28;35;53;80;9648,Action; Comedy; Thriller; Crime; Mystery,5
+7149,Killer Elite,sbert_lr,shuffled,12;28;35;53;80,Adventure; Action; Comedy; Thriller; Crime,5
+6778,I Want You Back,sbert_lr,shuffled,18;35;10749;10751,Drama; Comedy; Romance; Family,4
+414,Army of Shadows,sbert_lr,shuffled,18;28;53,Drama; Action; Thriller,3
+7587,Bright,sbert_lr,shuffled,14;16;27;35;878;10751,Fantasy; Animation; Horror; Comedy; Science Fiction; Family,6
+3261,The Lake House,sbert_lr,shuffled,18;27;35;9648;10749,Drama; Horror; Comedy; Mystery; Romance,5
+7476,The Big White,sbert_lr,shuffled,28;53;80,Action; Thriller; Crime,3
+2780,Stargate: The Ark of Truth,sbert_lr,shuffled,12;16;28;878,Adventure; Animation; Action; Science Fiction,4
+2331,Team Thor,sbert_lr,shuffled,12;18;28;36;878;10752,Adventure; Drama; Action; History; Science Fiction; War,6
+3596,Addams Family Values,sbert_lr,shuffled,27;35;10751,Horror; Comedy; Family,3
+9724,Serenity,sbert_lr,shuffled,18,Drama,1
+6912,The Fury,sbert_lr,shuffled,12;28;53,Adventure; Action; Thriller,3
+6482,"Hello, My Name Is Doris",sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+1105,Ferris Bueller's Day Off,sbert_lr,shuffled,18;35;10749;10751,Drama; Comedy; Romance; Family,4
+5399,Side Effects,sbert_lr,shuffled,18;53,Drama; Thriller,2
+4460,2048: Nowhere to Run,sbert_lr,shuffled,18;28;35;878,Drama; Action; Comedy; Science Fiction,4
+6071,School Ties,sbert_lr,shuffled,18;35,Drama; Comedy,2
+5999,Borgman,sbert_lr,shuffled,18;27;35,Drama; Horror; Comedy,3
+4712,What If,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+1640,The Muppet Christmas Carol,sbert_lr,shuffled,14;18;27;35;10751,Fantasy; Drama; Horror; Comedy; Family,5
+709,The Color Purple,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+7223,Parkland,sbert_lr,shuffled,18;36,Drama; History,2
+6026,A Guide to Recognizing Your Saints,sbert_lr,shuffled,18;35,Drama; Comedy,2
+9249,Office Christmas Party,sbert_lr,shuffled,18;35,Drama; Comedy,2
+3899,36th Precinct,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+1056,Beasts of No Nation,sbert_lr,shuffled,12;18,Adventure; Drama,2
+2852,Suspicion,sbert_lr,shuffled,18;35;53;80;10749,Drama; Comedy; Thriller; Crime; Romance,5
+5621,Star Wars: Episode I - The Phantom Menace,sbert_lr,shuffled,12;16;18;28;878,Adventure; Animation; Drama; Action; Science Fiction,5
+946,Boogie Nights,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+689,The Untouchables,sbert_lr,shuffled,18;28;35;80,Drama; Action; Comedy; Crime,4
+6974,Single White Female,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+1686,The Omen,sbert_lr,shuffled,12;14;18;27;53;9648,Adventure; Fantasy; Drama; Horror; Thriller; Mystery,6
+4271,The Red Sea Diving Resort,sbert_lr,shuffled,12;18;28;36;53,Adventure; Drama; Action; History; Thriller,5
+9555,The Platform 2,sbert_lr,shuffled,18;28;53;80;878,Drama; Action; Thriller; Crime; Science Fiction,5
+5844,Young Guns II,sbert_lr,shuffled,18;28;35;80,Drama; Action; Comedy; Crime,4
+9511,Horizon Line,sbert_lr,shuffled,18;35,Drama; Comedy,2
+1034,Sin Nombre,sbert_lr,shuffled,18;28;35,Drama; Action; Comedy,3
+6309,Halloween Kills,sbert_lr,shuffled,12;27;28,Adventure; Horror; Action,3
+7233,Rock Dog,sbert_lr,shuffled,16;18;35;10402;10751,Animation; Drama; Comedy; Music; Family,5
+3638,Tsotsi,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+900,Cat on a Hot Tin Roof,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+9763,King Solomon's Mines,sbert_lr,shuffled,12;18;28;36,Adventure; Drama; Action; History,4
+2635,Sweeney Todd: The Demon Barber of Fleet Street,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+1948,Christiane F.,sbert_lr,shuffled,18;35;10402,Drama; Comedy; Music,3
+132,Bicycle Thieves,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+5596,No Man of God,sbert_lr,shuffled,18;53;80,Drama; Thriller; Crime,3
+1819,Waves,sbert_lr,shuffled,18;35,Drama; Comedy,2
+4439,The Swan,sbert_lr,shuffled,18;35,Drama; Comedy,2
+349,Mirror,sbert_lr,shuffled,18;36;10752,Drama; History; War,3
+1163,The Snowman,sbert_lr,shuffled,14;16;35;10751,Fantasy; Animation; Comedy; Family,4
+2929,Punch-Drunk Love,sbert_lr,shuffled,18;35;53;80,Drama; Comedy; Thriller; Crime,4
+9539,King of Thieves,sbert_lr,shuffled,12;18;28;53;80,Adventure; Drama; Action; Thriller; Crime,5
+341,All Your Faces,sbert_lr,shuffled,18;53;80,Drama; Thriller; Crime,3
+4040,No Way Out,sbert_lr,shuffled,18;53;9648,Drama; Thriller; Mystery,3
+2580,Barbara,sbert_lr,shuffled,18;53,Drama; Thriller,2
+6187,The Great Outdoors,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+776,Rurouni Kenshin Part III: The Legend Ends,sbert_lr,shuffled,12;16;18;28;35;10751,Adventure; Animation; Drama; Action; Comedy; Family,6
+2406,Crazy About Her,sbert_lr,shuffled,18;35;53;10749,Drama; Comedy; Thriller; Romance,4
+4254,Outlaw King,sbert_lr,shuffled,12;14;18;28;36,Adventure; Fantasy; Drama; Action; History,5
+5105,A Good Year,sbert_lr,shuffled,18;35;53,Drama; Comedy; Thriller,3
+6701,The Taking of Pelham 1 2 3,sbert_lr,shuffled,12;28;53;80,Adventure; Action; Thriller; Crime,4
+8319,Poltergeist II: The Other Side,sbert_lr,shuffled,12;14;27;10751,Adventure; Fantasy; Horror; Family,4
+6647,The Man Who Knew Too Little,sbert_lr,shuffled,18;35;53;80,Drama; Comedy; Thriller; Crime,4
+9463,The Sweetest Thing,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+5469,Angel Has Fallen,sbert_lr,shuffled,18;28;53,Drama; Action; Thriller,3
+7305,Kidnap,sbert_lr,shuffled,12;18;28;53,Adventure; Drama; Action; Thriller,4
+4563,High Tension,sbert_lr,shuffled,14;27;35;10749,Fantasy; Horror; Comedy; Romance,4
+7657,Cujo,sbert_lr,shuffled,18;27;53,Drama; Horror; Thriller,3
+8270,Guess Who,sbert_lr,shuffled,18;35;9648,Drama; Comedy; Mystery,3
+5602,Welcome to the Rileys,sbert_lr,shuffled,18;35,Drama; Comedy,2
+2400,The Lego Batman Movie,sbert_lr,shuffled,12;16;28;35;80,Adventure; Animation; Action; Comedy; Crime,5
+1004,The Philadelphia Story,sbert_lr,shuffled,18;35;53;10749,Drama; Comedy; Thriller; Romance,4
+3083,Superman: Man of Tomorrow,sbert_lr,shuffled,12;28;878,Adventure; Action; Science Fiction,3
+30,The Lord of the Rings: The Two Towers,sbert_lr,shuffled,12;14;16;28;35,Adventure; Fantasy; Animation; Action; Comedy,5
+1263,The Conversation,sbert_lr,shuffled,18;28;53;80;9648,Drama; Action; Thriller; Crime; Mystery,5
+3810,Fear of Rain,sbert_lr,shuffled,18;27;53;9648,Drama; Horror; Thriller; Mystery,4
+8803,Mighty Morphin Power Rangers: The Movie,sbert_lr,shuffled,12;14;16;28;878;10751,Adventure; Fantasy; Animation; Action; Science Fiction; Family,6
+583,Demon Slayer: Kimetsu no Yaiba Infinity Castle,sbert_lr,shuffled,12;14;16;27;28,Adventure; Fantasy; Animation; Horror; Action,5
+6256,The Girl on the Train,sbert_lr,shuffled,18;35;53;9648;10749,Drama; Comedy; Thriller; Mystery; Romance,5
+5639,Ocean's Twelve,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+7245,Like Father,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+5319,Cypher,sbert_lr,shuffled,28;35;53;80,Action; Comedy; Thriller; Crime,4
+5952,Love at First Fight,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+6771,Yummy,sbert_lr,shuffled,18;27;35;53,Drama; Horror; Comedy; Thriller,4
+2704,After We Collided,sbert_lr,shuffled,18;10749,Drama; Romance,2
+4232,The Taste of Others,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+8102,Starry Eyes,sbert_lr,shuffled,12;28;35,Adventure; Action; Comedy,3
+1271,E.T. the Extra-Terrestrial,sbert_lr,shuffled,12;28;35;53;878;10751,Adventure; Action; Comedy; Thriller; Science Fiction; Family,6
+1771,The Fighter,sbert_lr,shuffled,18;28;35,Drama; Action; Comedy,3
+4190,Iron Man 2,sbert_lr,shuffled,12;18;28;35;878,Adventure; Drama; Action; Comedy; Science Fiction,5
+9336,Babe: Pig in the City,sbert_lr,shuffled,16;18;35;10751,Animation; Drama; Comedy; Family,4
+278,Scooby-Doo! and Kiss: Rock and Roll Mystery,sbert_lr,shuffled,12;14;16;28;35;878;10751,Adventure; Fantasy; Animation; Action; Comedy; Science Fiction; Family,7
+6246,Pontypool,sbert_lr,shuffled,16;27;35;53;10751,Animation; Horror; Comedy; Thriller; Family,5
+606,Die Hard,sbert_lr,shuffled,28;35;53;80,Action; Comedy; Thriller; Crime,4
+638,Freaks,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+2320,"Lust, Caution",sbert_lr,shuffled,28;35;53,Action; Comedy; Thriller,3
+1711,Happy as Lazzaro,sbert_lr,shuffled,18;35,Drama; Comedy,2
+7726,Pacific Rim: Uprising,sbert_lr,shuffled,12;18;28;53;878,Adventure; Drama; Action; Thriller; Science Fiction,5
+5162,Tron,sbert_lr,shuffled,28;35;878,Action; Comedy; Science Fiction,3
+8223,The Last Summer,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+507,Scooby-Doo! Camp Scare,sbert_lr,shuffled,16;35;10751,Animation; Comedy; Family,3
+6279,Outland,sbert_lr,shuffled,12;18,Adventure; Drama,2
+9998,Repossessed,sbert_lr,shuffled,14;27;35,Fantasy; Horror; Comedy,3
+2817,Dragon Ball Z: Bojack Unbound,sbert_lr,shuffled,12;14;16;28;35,Adventure; Fantasy; Animation; Action; Comedy,5
+7110,#realityhigh,sbert_lr,shuffled,18;35;10402;10749,Drama; Comedy; Music; Romance,4
+7215,Clean,sbert_lr,shuffled,18;35;80,Drama; Comedy; Crime,3
+8956,Brick,sbert_lr,shuffled,27;53;878;9648,Horror; Thriller; Science Fiction; Mystery,4
+1225,Father There Is Only One 2,sbert_lr,shuffled,18;35,Drama; Comedy,2
+2844,Bad Boys for Life,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+7171,Unsane,sbert_lr,shuffled,18;27;53;9648,Drama; Horror; Thriller; Mystery,4
+9108,The Ward,sbert_lr,shuffled,18;27;28;53;9648,Drama; Horror; Action; Thriller; Mystery,5
+353,Tel chi el telùn,sbert_lr,shuffled,18;35,Drama; Comedy,2
+5141,Overboard,sbert_lr,shuffled,18;28;35;53,Drama; Action; Comedy; Thriller,4
+4401,The Family Man,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+8003,Infinity Pool,sbert_lr,shuffled,18;28;53,Drama; Action; Thriller,3
+7218,The Expendables,sbert_lr,shuffled,12;28;35;53,Adventure; Action; Comedy; Thriller,4
+1513,Dunkirk,sbert_lr,shuffled,18;36;10752,Drama; History; War,3
+4096,The Jacket,sbert_lr,shuffled,18;878;10752,Drama; Science Fiction; War,3
+9377,Darkness,sbert_lr,shuffled,18;27;53,Drama; Horror; Thriller,3
+5039,Planet Terror,sbert_lr,shuffled,18;27;35,Drama; Horror; Comedy,3
+10,Parasite,sbert_lr,shuffled,18;35,Drama; Comedy,2
+9857,Wrecked,sbert_lr,shuffled,18;27;28;53;80;9648,Drama; Horror; Action; Thriller; Crime; Mystery,6
+7319,The Incredible Hulk,sbert_lr,shuffled,12;16;28;35;878,Adventure; Animation; Action; Comedy; Science Fiction,5
+1604,Bullet Train,sbert_lr,shuffled,12;28;35;53,Adventure; Action; Comedy; Thriller,4
+2652,Compagni di scuola,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+7969,Erased,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+4844,Nosferatu,sbert_lr,shuffled,14;18;27;53;9648,Fantasy; Drama; Horror; Thriller; Mystery,5
+9453,Inconceivable,sbert_lr,shuffled,18;53,Drama; Thriller,2
+4308,World War Z,sbert_lr,shuffled,27;28;53;878,Horror; Action; Thriller; Science Fiction,4
+4367,Danger Close: The Battle of Long Tan,sbert_lr,shuffled,18;28;36;10752,Drama; Action; History; War,4
+4104,Barbie: A Fairy Secret,sbert_lr,shuffled,14;16;35;10751,Fantasy; Animation; Comedy; Family,4
+5831,The Amazing Spider-Man 2,sbert_lr,shuffled,12;14;16;28;35;10751,Adventure; Fantasy; Animation; Action; Comedy; Family,6
+8014,Spoiled Brats,sbert_lr,shuffled,18;35,Drama; Comedy,2
+7036,Insidious: Chapter 3,sbert_lr,shuffled,14;18;27;53,Fantasy; Drama; Horror; Thriller,4
+6669,The Blair Witch Project,sbert_lr,shuffled,18;27;35,Drama; Horror; Comedy,3
+1478,Lifted,sbert_lr,shuffled,27;35;878,Horror; Comedy; Science Fiction,3
+7325,Monster-in-Law,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+7483,Hummingbird,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+5542,Get the Gringo,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+4516,Chappie,sbert_lr,shuffled,12;14;16;18;35;878;10751,Adventure; Fantasy; Animation; Drama; Comedy; Science Fiction; Family,7
+440,Miracle in Cell No. 7,sbert_lr,shuffled,18;53;80,Drama; Thriller; Crime,3
+6612,Curly Sue,sbert_lr,shuffled,35;80;10749,Comedy; Crime; Romance,3
+8885,Drillbit Taylor,sbert_lr,shuffled,18;28;35;80,Drama; Action; Comedy; Crime,4
+1335,Emergency Declaration,sbert_lr,shuffled,18;27;28;53;878;9648,Drama; Horror; Action; Thriller; Science Fiction; Mystery,6
+7269,Red Heat,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+2238,Trolls Band Together,sbert_lr,shuffled,12;18;35;10402,Adventure; Drama; Comedy; Music,4
+1158,Pandora,sbert_lr,shuffled,18;53,Drama; Thriller,2
+2104,Kiss and Cry,sbert_lr,shuffled,18,Drama,1
+5863,Rio 2,sbert_lr,shuffled,12;14;16;35;10751,Adventure; Fantasy; Animation; Comedy; Family,5
+4764,Altered States,sbert_lr,shuffled,18;878,Drama; Science Fiction,2
+9468,Iron Eagle,sbert_lr,shuffled,18;28;35;53,Drama; Action; Comedy; Thriller,4
+4952,Hillbilly Elegy,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+9004,Josie and the Pussycats,sbert_lr,shuffled,18;35;10402;10749,Drama; Comedy; Music; Romance,4
+1976,Glengarry Glen Ross,sbert_lr,shuffled,35;10749,Comedy; Romance,2
+5068,Parenthood,sbert_lr,shuffled,18;35,Drama; Comedy,2
+5629,The Brothers Bloom,sbert_lr,shuffled,12;35;10749,Adventure; Comedy; Romance,3
+6355,The Second Best Exotic Marigold Hotel,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+1066,Tombstone,sbert_lr,shuffled,12;18;28;35,Adventure; Drama; Action; Comedy,4
+928,Mickey's Christmas Carol,sbert_lr,shuffled,14;16;18;35;10751,Fantasy; Animation; Drama; Comedy; Family,5
+2189,Nosferatu the Vampyre,sbert_lr,shuffled,14;18;27;53;10749,Fantasy; Drama; Horror; Thriller; Romance,5
+3026,Batman: Death in the Family,sbert_lr,shuffled,18;28,Drama; Action,2
+7938,Queen of the Damned,sbert_lr,shuffled,12;14;16;28;10749,Adventure; Fantasy; Animation; Action; Romance,5
+5436,"Me, Myself & Irene",sbert_lr,shuffled,18;35;80,Drama; Comedy; Crime,3
+3215,Caché,sbert_lr,shuffled,18;35;53,Drama; Comedy; Thriller,3
+8379,Friends with Kids,sbert_lr,shuffled,18;35;10749;10751,Drama; Comedy; Romance; Family,4
+455,My Hero Academia: Two Heroes,sbert_lr,shuffled,12;28;35;878,Adventure; Action; Comedy; Science Fiction,4
+8199,Leaves of Grass,sbert_lr,shuffled,18;35,Drama; Comedy,2
+7507,Blood Father,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+7647,The Weather Man,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+2317,The Past,sbert_lr,shuffled,18;10749,Drama; Romance,2
+6662,Talladega Nights: The Ballad of Ricky Bobby,sbert_lr,shuffled,18;35,Drama; Comedy,2
+1645,Women on the Verge of a Nervous Breakdown,sbert_lr,shuffled,35;53,Comedy; Thriller,2
+4317,To All the Boys: P.S. I Still Love You,sbert_lr,shuffled,14;18;35;10749,Fantasy; Drama; Comedy; Romance,4
+2774,Descendants,sbert_lr,shuffled,12;14;16;35;10751,Adventure; Fantasy; Animation; Comedy; Family,5
+6250,Luther,sbert_lr,shuffled,18;36,Drama; History,2
+3387,Stargate,sbert_lr,shuffled,12;14;16;28;878,Adventure; Fantasy; Animation; Action; Science Fiction,5
+3710,24 Hour Party People,sbert_lr,shuffled,18;35;10402,Drama; Comedy; Music,3
+6835,Heist,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+3696,Silkwood,sbert_lr,shuffled,18;27;53;80;878;9648,Drama; Horror; Thriller; Crime; Science Fiction; Mystery,6
+8622,Little Man,sbert_lr,shuffled,28;35;80,Action; Comedy; Crime,3
+4822,Terrified,sbert_lr,shuffled,18;27;53;80;9648,Drama; Horror; Thriller; Crime; Mystery,5
+1832,Scooby-Doo and the Ghoul School,sbert_lr,shuffled,12;14;16;35;10751,Adventure; Fantasy; Animation; Comedy; Family,5
+7530,Throw Momma from the Train,sbert_lr,shuffled,18;53,Drama; Thriller,2
+7327,Force 10 from Navarone,sbert_lr,shuffled,12;18;28;36;53;10752,Adventure; Drama; Action; History; Thriller; War,6
+9367,Time Cut,sbert_lr,shuffled,27;28;53;878;9648,Horror; Action; Thriller; Science Fiction; Mystery,5
+6840,Windtalkers,sbert_lr,shuffled,18;28;53,Drama; Action; Thriller,3
+7734,Ip Man: The Final Fight,sbert_lr,shuffled,12;28;878,Adventure; Action; Science Fiction,3
+2313,Z-O-M-B-I-E-S,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+684,Life of Brian,sbert_lr,shuffled,18;35,Drama; Comedy,2
+169,Red Beard,sbert_lr,shuffled,18;35,Drama; Comedy,2
+1443,Free Guy,sbert_lr,shuffled,12;18;28;35;53;80,Adventure; Drama; Action; Comedy; Thriller; Crime,6
+5612,The Son of Bigfoot,sbert_lr,shuffled,12;14;16;27;35;878;10751,Adventure; Fantasy; Animation; Horror; Comedy; Science Fiction; Family,7
+3381,Martin Eden,sbert_lr,shuffled,18;36;10749,Drama; History; Romance,3
+6677,Roald Dahl's The Witches,sbert_lr,shuffled,14;18;27;35;10751,Fantasy; Drama; Horror; Comedy; Family,5
+6123,Fantozzi Still Suffers,sbert_lr,shuffled,35;10751,Comedy; Family,2
+3317,Brain on Fire,sbert_lr,shuffled,18;27;53;9648,Drama; Horror; Thriller; Mystery,4
+4636,Frankie and Johnny,sbert_lr,shuffled,18;35;53;80;10749,Drama; Comedy; Thriller; Crime; Romance,5
+923,Time of the Gypsies,sbert_lr,shuffled,18;28;53,Drama; Action; Thriller,3
+5063,The Words,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+3713,The Three Musketeers: D'Artagnan,sbert_lr,shuffled,12;14;18;28,Adventure; Fantasy; Drama; Action,4
+7235,The Astronaut Farmer,sbert_lr,shuffled,12;18;28;35;53,Adventure; Drama; Action; Comedy; Thriller,5
+2570,Utøya: July 22,sbert_lr,shuffled,18;53,Drama; Thriller,2
+8696,The Jungle Book 2,sbert_lr,shuffled,12;16;35;10751,Adventure; Animation; Comedy; Family,4
+3942,Locke,sbert_lr,shuffled,18,Drama,1
+5856,Beverly Hills Cop II,sbert_lr,shuffled,28;35;53;80,Action; Comedy; Thriller; Crime,4
+2986,Starred Up,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+1224,Anonymously Yours,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+8447,Beyond Re-Animator,sbert_lr,shuffled,18;28;53;878,Drama; Action; Thriller; Science Fiction,4
+2611,Toy Story of Terror!,sbert_lr,shuffled,27;35;10751,Horror; Comedy; Family,3
+4338,City of Angels,sbert_lr,shuffled,18;28;53;878,Drama; Action; Thriller; Science Fiction,4
+269,For a Few Dollars More,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+9122,Miss Congeniality 2: Armed and Fabulous,sbert_lr,shuffled,18;35,Drama; Comedy,2
+4983,21,sbert_lr,shuffled,18;35,Drama; Comedy,2
+7521,Bad Lieutenant: Port of Call - New Orleans,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+9100,The Jack in the Box,sbert_lr,shuffled,14;16;27;35;878;10751,Fantasy; Animation; Horror; Comedy; Science Fiction; Family,6
+4660,The Mummy,sbert_lr,shuffled,14;18;27,Fantasy; Drama; Horror,3
+5841,Just Wright,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+3986,The X-Files,sbert_lr,shuffled,28;53;80;878;9648,Action; Thriller; Crime; Science Fiction; Mystery,5
+144,Vertigo,sbert_lr,shuffled,18;27;53;80;9648,Drama; Horror; Thriller; Crime; Mystery,5
+3414,Anplagghed al Cinema,sbert_lr,shuffled,18;35;53,Drama; Comedy; Thriller,3
+3086,"The Legend of Al, John and Jack",sbert_lr,shuffled,28;35;53;80,Action; Comedy; Thriller; Crime,4
+5530,Black Rain,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+4848,Oliver & Company,sbert_lr,shuffled,35;10751,Comedy; Family,2
+8399,The Men Who Stare at Goats,sbert_lr,shuffled,18;28;35;53,Drama; Action; Comedy; Thriller,4
+616,Into the Wild,sbert_lr,shuffled,18;35,Drama; Comedy,2
+1632,Crush,sbert_lr,shuffled,18;35;10402;10749,Drama; Comedy; Music; Romance,4
+5034,The Replacements,sbert_lr,shuffled,18;35;53,Drama; Comedy; Thriller,3
+8507,Cyrus,sbert_lr,shuffled,18;35;53;10749,Drama; Comedy; Thriller; Romance,4
+4975,Fear Street: 1994,sbert_lr,shuffled,18;27;28;53,Drama; Horror; Action; Thriller,4
+5437,Annabelle: Creation,sbert_lr,shuffled,14;27,Fantasy; Horror,2
+56,The Wild Robot,sbert_lr,shuffled,12;16;18;35;10751,Adventure; Animation; Drama; Comedy; Family,5
+4069,My Spy,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+6787,Zack and Miri Make a Porno,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+6758,The Last Mimzy,sbert_lr,shuffled,12;14;18;35;10751,Adventure; Fantasy; Drama; Comedy; Family,5
+9038,The Bay,sbert_lr,shuffled,27;53;9648,Horror; Thriller; Mystery,3
+4071,The Ice Storm,sbert_lr,shuffled,18;35;53,Drama; Comedy; Thriller,3
+3020,Drugstore Cowboy,sbert_lr,shuffled,18,Drama,1
+3243,Radiofreccia,sbert_lr,shuffled,18;35,Drama; Comedy,2
+8174,Spanglish,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+8898,Department Store,sbert_lr,shuffled,18;35,Drama; Comedy,2
+256,The Wolf of Wall Street,sbert_lr,shuffled,18;35;53;80,Drama; Comedy; Thriller; Crime,4
+4276,The Blob,sbert_lr,shuffled,27;28;53;878,Horror; Action; Thriller; Science Fiction,4
+307,"Love, Simon",sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+1719,The Long Goodbye,sbert_lr,shuffled,18;53;80;9648,Drama; Thriller; Crime; Mystery,4
+4377,Easy A,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+1360,"Play It Again, Sam",sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+1294,Mars Express,sbert_lr,shuffled,12;28;53;80;878,Adventure; Action; Thriller; Crime; Science Fiction,5
+5554,The Lion King 1½,sbert_lr,shuffled,12;14;16;35;10751,Adventure; Fantasy; Animation; Comedy; Family,5
+8719,Planet 51,sbert_lr,shuffled,12;18;35;878,Adventure; Drama; Comedy; Science Fiction,4
+5660,Blade II,sbert_lr,shuffled,14;27;28;35;878,Fantasy; Horror; Action; Comedy; Science Fiction,5
+4771,Beau Is Afraid,sbert_lr,shuffled,18;27;53,Drama; Horror; Thriller,3
+9355,Cool World,sbert_lr,shuffled,12;14;18;35,Adventure; Fantasy; Drama; Comedy,4
+9982,And Soon the Darkness,sbert_lr,shuffled,27;35;53,Horror; Comedy; Thriller,3
+4705,The Gilded Cage,sbert_lr,shuffled,18,Drama,1
+4714,Flawless,sbert_lr,shuffled,18;35;53;80;10749,Drama; Comedy; Thriller; Crime; Romance,5
+159,Togo,sbert_lr,shuffled,12;18;10751,Adventure; Drama; Family,3
+3345,"I'm a Cyborg, But That's OK",sbert_lr,shuffled,18;35;53;878,Drama; Comedy; Thriller; Science Fiction,4
+5605,Hitch,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+5835,Joy Ride,sbert_lr,shuffled,18;27;35;53,Drama; Horror; Comedy; Thriller,4
+88,Le Trou,sbert_lr,shuffled,27;28;35;53;80,Horror; Action; Comedy; Thriller; Crime,5
+5794,Red Sparrow,sbert_lr,shuffled,16;18,Animation; Drama,2
+3166,Trash,sbert_lr,shuffled,18;27;35;53;80,Drama; Horror; Comedy; Thriller; Crime,5
+5760,Jurassic World: Fallen Kingdom,sbert_lr,shuffled,12;18;28;878,Adventure; Drama; Action; Science Fiction,4
+2083,American Fiction,sbert_lr,shuffled,18;35,Drama; Comedy,2
+354,The Sixth Sense,sbert_lr,shuffled,18;53;9648,Drama; Thriller; Mystery,3
+9465,Blue Mountain State: The Rise of Thadland,sbert_lr,shuffled,18;35;10751,Drama; Comedy; Family,3
+9630,Don't Knock Twice,sbert_lr,shuffled,14;18;27,Fantasy; Drama; Horror,3
+604,Mr. Nobody,sbert_lr,shuffled,14;18;878,Fantasy; Drama; Science Fiction,3
+9133,Life of Crime,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+439,Dangal,sbert_lr,shuffled,18;35;10751,Drama; Comedy; Family,3
+5242,The Harder They Fall,sbert_lr,shuffled,12;28;35;53;80,Adventure; Action; Comedy; Thriller; Crime,5
+5089,"Mektoub, My Love: Canto Uno",sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+9187,MILF,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+9662,My Soul to Take,sbert_lr,shuffled,18;27;9648,Drama; Horror; Mystery,3
+6237,Cloudy with a Chance of Meatballs 2,sbert_lr,shuffled,16;18;27;35;878,Animation; Drama; Horror; Comedy; Science Fiction,5
+4155,Den of Thieves,sbert_lr,shuffled,18;28;35;37;53;80,Drama; Action; Comedy; Western; Thriller; Crime,6
+1235,Hard Boiled,sbert_lr,shuffled,28;35;53;80,Action; Comedy; Thriller; Crime,4
+458,A Whisker Away,sbert_lr,shuffled,16;35;10749;10751,Animation; Comedy; Romance; Family,4
+480,Kill Bill: Vol. 2,sbert_lr,shuffled,28;53;80,Action; Thriller; Crime,3
+7672,Last Night,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+8738,Love Addict,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+4017,Tales from the Crypt: Demon Knight,sbert_lr,shuffled,12;28;53;80,Adventure; Action; Thriller; Crime,4
+726,Deep Red,sbert_lr,shuffled,18;27;53;80;9648,Drama; Horror; Thriller; Crime; Mystery,5
+222,My Neighbor Totoro,sbert_lr,shuffled,12;14;18;27;35;10751,Adventure; Fantasy; Drama; Horror; Comedy; Family,6
+1221,Angels with Dirty Faces,sbert_lr,shuffled,18;35;80,Drama; Comedy; Crime,3
+1256,The Passion of the Christ,sbert_lr,shuffled,18;27,Drama; Horror,2
+9620,Blackhat,sbert_lr,shuffled,12;28;53;80,Adventure; Action; Thriller; Crime,4
+5287,Barefoot,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+2645,Alien: Romulus,sbert_lr,shuffled,12;27;53;878,Adventure; Horror; Thriller; Science Fiction,4
+8601,Mean Girls,sbert_lr,shuffled,12;16;35;10751,Adventure; Animation; Comedy; Family,4
+2568,Irreversible,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+8171,Franklyn,sbert_lr,shuffled,18;28;878;10749,Drama; Action; Science Fiction; Romance,4
+9547,Open Water,sbert_lr,shuffled,18;27;53,Drama; Horror; Thriller,3
+2384,"The Good, the Bart, and the Loki",sbert_lr,shuffled,12;14;16;28;35;878;10751,Adventure; Fantasy; Animation; Action; Comedy; Science Fiction; Family,7
+6491,Vantage Point,sbert_lr,shuffled,18;28;36;53,Drama; Action; History; Thriller,4
+7684,Every Which Way but Loose,sbert_lr,shuffled,12;18;28;35,Adventure; Drama; Action; Comedy,4
+4330,Pooh's Heffalump Movie,sbert_lr,shuffled,12;14;16;35;10751,Adventure; Fantasy; Animation; Comedy; Family,5
+2210,Labyrinth,sbert_lr,shuffled,12;14;16;35;10751,Adventure; Fantasy; Animation; Comedy; Family,5
+1332,Batman: Mask of the Phantasm,sbert_lr,shuffled,18;28;53;80;9648,Drama; Action; Thriller; Crime; Mystery,5
+2861,This Boy's Life,sbert_lr,shuffled,18;53,Drama; Thriller,2
+7870,Valhalla Rising,sbert_lr,shuffled,12;14;18;28;53,Adventure; Fantasy; Drama; Action; Thriller,5
+813,Divines,sbert_lr,shuffled,18;35;80,Drama; Comedy; Crime,3
+4858,Anna Karenina,sbert_lr,shuffled,18;53;10749,Drama; Thriller; Romance,3
+4637,Danny Collins,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+4591,The Girl in the Fog,sbert_lr,shuffled,18;27;53;9648,Drama; Horror; Thriller; Mystery,4
+9045,Trespass Against Us,sbert_lr,shuffled,12;18;28;35;80,Adventure; Drama; Action; Comedy; Crime,5
+8481,Paradise Hills,sbert_lr,shuffled,14;27;53;9648,Fantasy; Horror; Thriller; Mystery,4
+2302,Mask,sbert_lr,shuffled,18;35,Drama; Comedy,2
+9943,Welcome Home,sbert_lr,shuffled,35,Comedy,1
+8338,Dead Snow,sbert_lr,shuffled,18;27;53,Drama; Horror; Thriller,3
+8262,Mission to Mars,sbert_lr,shuffled,18;53;878,Drama; Thriller; Science Fiction,3
+1764,Mudbound,sbert_lr,shuffled,18;36;10752,Drama; History; War,3
+9988,Halloween III: Season of the Witch,sbert_lr,shuffled,27;35;53;10751,Horror; Comedy; Thriller; Family,4
+1603,The Secret Garden,sbert_lr,shuffled,18;53,Drama; Thriller,2
+9989,Poltergeist III,sbert_lr,shuffled,14;27;53,Fantasy; Horror; Thriller,3
+8535,1922,sbert_lr,shuffled,18;35;53;80,Drama; Comedy; Thriller; Crime,4
+8708,Hitman: Agent 47,sbert_lr,shuffled,28;53;9648,Action; Thriller; Mystery,3
+2858,Your Fault,sbert_lr,shuffled,18;35;10749;10751,Drama; Comedy; Romance; Family,4
+8086,All Good Things,sbert_lr,shuffled,18;53;80;9648,Drama; Thriller; Crime; Mystery,4
+6753,Security,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+2722,The Man Who Knew Infinity,sbert_lr,shuffled,18;36;10749,Drama; History; Romance,3
+6178,Cobweb,sbert_lr,shuffled,14;18;27;53;9648;10751,Fantasy; Drama; Horror; Thriller; Mystery; Family,6
+57,The Quintessential Quintuplets Movie,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+4650,Coma,sbert_lr,shuffled,18;53;9648,Drama; Thriller; Mystery,3
+3683,Rescue Dawn,sbert_lr,shuffled,12;18;28;36;53;10752,Adventure; Drama; Action; History; Thriller; War,6
+7963,Journey to the Center of the Earth,sbert_lr,shuffled,12;14;16;878;10751,Adventure; Fantasy; Animation; Science Fiction; Family,5
+2275,The Names of Love,sbert_lr,shuffled,18;35;53,Drama; Comedy; Thriller,3
+8384,Elvis & Nixon,sbert_lr,shuffled,18;35,Drama; Comedy,2
+2126,Lights Out,sbert_lr,shuffled,14;27;35;53;9648;10749,Fantasy; Horror; Comedy; Thriller; Mystery; Romance,6
+4528,Last Flag Flying,sbert_lr,shuffled,18;28;10752,Drama; Action; War,3
+8652,The Riot Club,sbert_lr,shuffled,18;35;53,Drama; Comedy; Thriller,3
+5581,Greta,sbert_lr,shuffled,18;53;9648;10749,Drama; Thriller; Mystery; Romance,4
+7976,Alien Nation,sbert_lr,shuffled,27;28;53;878,Horror; Action; Thriller; Science Fiction,4
+452,Roman Holiday,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+9321,Captive State,sbert_lr,shuffled,18;28;53;878,Drama; Action; Thriller; Science Fiction,4
+2136,Star Trek: First Contact,sbert_lr,shuffled,12;28;878,Adventure; Action; Science Fiction,3
+5207,Ninja: Shadow of a Tear,sbert_lr,shuffled,28;53;80,Action; Thriller; Crime,3
+3373,Emma.,sbert_lr,shuffled,18;10749,Drama; Romance,2
+4361,Wild Rose,sbert_lr,shuffled,18;35;10402,Drama; Comedy; Music,3
+8255,Sudden Death,sbert_lr,shuffled,28;35;53,Action; Comedy; Thriller,3
+9020,The Town that Dreaded Sundown,sbert_lr,shuffled,18;27;53;80;9648,Drama; Horror; Thriller; Crime; Mystery,5
+9744,The Dead Don't Die,sbert_lr,shuffled,14;16;27;35,Fantasy; Animation; Horror; Comedy,4
+1291,Prison Break: The Final Break,sbert_lr,shuffled,18;35;53;80;10749,Drama; Comedy; Thriller; Crime; Romance,5
+4674,Fantomas Unleashed,sbert_lr,shuffled,12;28;35;878,Adventure; Action; Comedy; Science Fiction,4
+3253,Say Anything...,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+2587,"Ruby Gillman, Teenage Kraken",sbert_lr,shuffled,12;14;16;28;10751,Adventure; Fantasy; Animation; Action; Family,5
+5753,Harold & Kumar Go to White Castle,sbert_lr,shuffled,12;35;80;10751,Adventure; Comedy; Crime; Family,4
+7793,Kin,sbert_lr,shuffled,12;28;53;80,Adventure; Action; Thriller; Crime,4
+8698,Stuck Together,sbert_lr,shuffled,18;27;53;878,Drama; Horror; Thriller; Science Fiction,4
+2524,"Are You There God? It's Me, Margaret.",sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+8467,Mars Needs Moms,sbert_lr,shuffled,12;16;28;35;878;10751,Adventure; Animation; Action; Comedy; Science Fiction; Family,6
+8225,12 Feet Deep,sbert_lr,shuffled,27;53,Horror; Thriller,2
+7360,Short Circuit 2,sbert_lr,shuffled,12;28;35;878,Adventure; Action; Comedy; Science Fiction,4
+7800,The Inbetweeners 2,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+7262,Unknown Origins,sbert_lr,shuffled,18;28;53;80;9648,Drama; Action; Thriller; Crime; Mystery,5
+5690,The Vast of Night,sbert_lr,shuffled,18;35;878,Drama; Comedy; Science Fiction,3
+1613,Hedwig and the Angry Inch,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+1054,The Longest Day,sbert_lr,shuffled,18;36;10752,Drama; History; War,3
+9170,The Order,sbert_lr,shuffled,18;28;53,Drama; Action; Thriller,3
+446,The Notebook,sbert_lr,shuffled,18;10749,Drama; Romance,2
+6194,Da 5 Bloods,sbert_lr,shuffled,18;28;36;10752,Drama; Action; History; War,4
+6702,Shrek the Halls,sbert_lr,shuffled,14;16;27;35;10751,Fantasy; Animation; Horror; Comedy; Family,5
+1526,Marty,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+6737,Looney Tunes: Back in Action,sbert_lr,shuffled,12;14;16;28;35;10751,Adventure; Fantasy; Animation; Action; Comedy; Family,6
+935,The Spirit of the Beehive,sbert_lr,shuffled,18;27,Drama; Horror,2
+4749,Maze Runner: The Scorch Trials,sbert_lr,shuffled,12;28;35,Adventure; Action; Comedy,3
+2642,The Broken Hearts Gallery,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+141,Innocent Voices,sbert_lr,shuffled,18;28,Drama; Action,2
+6091,The United States of Leland,sbert_lr,shuffled,18;53;80,Drama; Thriller; Crime,3
+532,The Big Lebowski,sbert_lr,shuffled,18;35,Drama; Comedy,2
+704,How to Train Your Dragon: The Hidden World,sbert_lr,shuffled,12;14;16;28;35;10751,Adventure; Fantasy; Animation; Action; Comedy; Family,6
+1277,Escape from Alcatraz,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+3806,Meet the Robinsons,sbert_lr,shuffled,12;14;18;35;878;10751,Adventure; Fantasy; Drama; Comedy; Science Fiction; Family,6
+6470,Kick-Ass 2,sbert_lr,shuffled,12;14;16;28;878,Adventure; Fantasy; Animation; Action; Science Fiction,5
+7101,Unfriended: Dark Web,sbert_lr,shuffled,27;28;53;9648,Horror; Action; Thriller; Mystery,4
+8133,Prey,sbert_lr,shuffled,12;18;27;28;53;878,Adventure; Drama; Horror; Action; Thriller; Science Fiction,6
+2481,It's Only the End of the World,sbert_lr,shuffled,18;35,Drama; Comedy,2
+5156,Fire in the Sky,sbert_lr,shuffled,18;27;35;53;80;9648,Drama; Horror; Comedy; Thriller; Crime; Mystery,6
+3418,Naked Lunch,sbert_lr,shuffled,27;35,Horror; Comedy,2
+7481,El Conde,sbert_lr,shuffled,14;27;28,Fantasy; Horror; Action,3
+1109,Imagine Me & You,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+9659,Sandy Wexler,sbert_lr,shuffled,18;35;10402;10749,Drama; Comedy; Music; Romance,4
+2155,A Monster Calls,sbert_lr,shuffled,14;18;27;10751,Fantasy; Drama; Horror; Family,4
+9842,The Flintstones,sbert_lr,shuffled,16;35;10751,Animation; Comedy; Family,3
+1476,Man on Fire,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+2743,Talk to Me,sbert_lr,shuffled,14;27;35,Fantasy; Horror; Comedy,3
+3742,Chicken Run: Dawn of the Nugget,sbert_lr,shuffled,18;35;53,Drama; Comedy; Thriller,3
+2768,Seven Brides for Seven Brothers,sbert_lr,shuffled,18;35;37;10749,Drama; Comedy; Western; Romance,4
+5670,Reminiscence,sbert_lr,shuffled,18;53;10749,Drama; Thriller; Romance,3
+1894,Eraserhead,sbert_lr,shuffled,18;27;35,Drama; Horror; Comedy,3
+3695,Four Lions,sbert_lr,shuffled,12;18;35;36,Adventure; Drama; Comedy; History,4
+276,Harry Potter and the Prisoner of Azkaban,sbert_lr,shuffled,12;14;16;35;10751,Adventure; Fantasy; Animation; Comedy; Family,5
+389,Heat,sbert_lr,shuffled,12;28;35;53;80,Adventure; Action; Comedy; Thriller; Crime,5
+2500,Monster,sbert_lr,shuffled,18;27;53;80,Drama; Horror; Thriller; Crime,4
+4675,Sightless,sbert_lr,shuffled,27;53;9648,Horror; Thriller; Mystery,3
+5163,The Hunger,sbert_lr,shuffled,14;18;27;878;10749,Fantasy; Drama; Horror; Science Fiction; Romance,5
+7397,Stretch,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+1805,The Impossible,sbert_lr,shuffled,18;35;10751,Drama; Comedy; Family,3
+7148,Deadstream,sbert_lr,shuffled,14;18;35;53,Fantasy; Drama; Comedy; Thriller,4
+3272,The Lobster,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+1741,Braindead,sbert_lr,shuffled,14;16;27;35;10751,Fantasy; Animation; Horror; Comedy; Family,5
+992,The Anthem of the Heart,sbert_lr,shuffled,16;18;10402;10749,Animation; Drama; Music; Romance,4
+9001,Ricki and the Flash,sbert_lr,shuffled,18;35;10402,Drama; Comedy; Music,3
+3841,Isi & Ossi,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+1575,Mr. Church,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+4004,The Night Comes for Us,sbert_lr,shuffled,28;53;80,Action; Thriller; Crime,3
+8695,Suburbicon,sbert_lr,shuffled,18;27;35;53,Drama; Horror; Comedy; Thriller,4
+9457,Earth Girls Are Easy,sbert_lr,shuffled,35;878;10749,Comedy; Science Fiction; Romance,3
+9385,Semi-Pro,sbert_lr,shuffled,18;35,Drama; Comedy,2
+8987,Joe's Apartment,sbert_lr,shuffled,35;10749,Comedy; Romance,2
+1415,C.R.A.Z.Y.,sbert_lr,shuffled,18;35,Drama; Comedy,2
+6478,Hot Rod,sbert_lr,shuffled,18;28;35,Drama; Action; Comedy,3
+9618,Dirty Dancing,sbert_lr,shuffled,18;35;10749;10751,Drama; Comedy; Romance; Family,4
+2350,Frozen II,sbert_lr,shuffled,12;14;16;35;10751,Adventure; Fantasy; Animation; Comedy; Family,5
+4942,A Nightmare on Elm Street 3: Dream Warriors,sbert_lr,shuffled,18;27;53;80,Drama; Horror; Thriller; Crime,4
+1458,Balkan Line,sbert_lr,shuffled,18;28;53;10752,Drama; Action; Thriller; War,4
+7723,Jackass Presents: Bad Grandpa,sbert_lr,shuffled,18;35;10751,Drama; Comedy; Family,3
+8997,Vanity Fair,sbert_lr,shuffled,18;27,Drama; Horror,2
+4514,Don't Worry Darling,sbert_lr,shuffled,18;35,Drama; Comedy,2
+8848,A Classic Horror Story,sbert_lr,shuffled,18;27,Drama; Horror,2
+7374,Blown Away,sbert_lr,shuffled,18;28;53,Drama; Action; Thriller,3
+4010,Sleeper,sbert_lr,shuffled,18;35,Drama; Comedy,2
+5486,The Fury of a Patient Man,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+7473,Under the Riccione Sun,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+7071,Gemini Man,sbert_lr,shuffled,12;28;35,Adventure; Action; Comedy,3
+7029,I ♥ Huckabees,sbert_lr,shuffled,35;53;80;9648;10749,Comedy; Thriller; Crime; Mystery; Romance,5
+4653,Twitches,sbert_lr,shuffled,14;35;10749,Fantasy; Comedy; Romance,3
+3016,Aladdin,sbert_lr,shuffled,12;14;16;35;10751,Adventure; Fantasy; Animation; Comedy; Family,5
+8194,Tracers,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+9594,Budapest,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+6034,Hey Arnold! The Movie,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+9080,The Smurfs,sbert_lr,shuffled,12;14;16;35;10751,Adventure; Fantasy; Animation; Comedy; Family,5
+5733,Saving Grace,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+3927,Supernova,sbert_lr,shuffled,18;10749,Drama; Romance,2
+5580,The Mask of Zorro,sbert_lr,shuffled,12;18;28,Adventure; Drama; Action,3
+2296,One Man Band,sbert_lr,shuffled,16;18;35;10749;10751,Animation; Drama; Comedy; Romance; Family,5
+5976,Four Flies on Grey Velvet,sbert_lr,shuffled,18;35;53;80;9648,Drama; Comedy; Thriller; Crime; Mystery,5
+3517,The Bob's Burgers Movie,sbert_lr,shuffled,27;35;53,Horror; Comedy; Thriller,3
+2050,Total Recall,sbert_lr,shuffled,18;35;53;878,Drama; Comedy; Thriller; Science Fiction,4
+1426,The Discreet Charm of the Bourgeoisie,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+6691,A Dangerous Method,sbert_lr,shuffled,18;53,Drama; Thriller,2
+6945,The Gendarme in New York,sbert_lr,shuffled,18;28;35;80;10752,Drama; Action; Comedy; Crime; War,5
+728,Guy Ritchie's The Covenant,sbert_lr,shuffled,18;28;53;10752,Drama; Action; Thriller; War,4
+7850,Haunter,sbert_lr,shuffled,18;53;9648,Drama; Thriller; Mystery,3
+8524,All You Need is Crime,sbert_lr,shuffled,18;35;80,Drama; Comedy; Crime,3
+4313,Smallfoot,sbert_lr,shuffled,12;14;16;18;35;10751,Adventure; Fantasy; Animation; Drama; Comedy; Family,6
+148,Silenced,sbert_lr,shuffled,18;36,Drama; History,2
+4468,I Walked with a Zombie,sbert_lr,shuffled,18;27;35;10749,Drama; Horror; Comedy; Romance,4
+2699,"The Good, the Bad, the Weird",sbert_lr,shuffled,12;18;28;36;80,Adventure; Drama; Action; History; Crime,5
+3028,Immortal Beloved,sbert_lr,shuffled,18;36;10749,Drama; History; Romance,3
+2474,The Princess and the Frog,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+4080,AKA,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+4455,Babysitting,sbert_lr,shuffled,18;35,Drama; Comedy,2
+732,Accattone,sbert_lr,shuffled,18;35;53;80,Drama; Comedy; Thriller; Crime,4
+9622,102 Dalmatians,sbert_lr,shuffled,12;14;16;28;35;10751,Adventure; Fantasy; Animation; Action; Comedy; Family,6
+3629,Superman vs. The Elite,sbert_lr,shuffled,12;18;28;35;80,Adventure; Drama; Action; Comedy; Crime,5
+7579,The Belko Experiment,sbert_lr,shuffled,18;35;53;80,Drama; Comedy; Thriller; Crime,4
+5666,Return of the Living Dead III,sbert_lr,shuffled,18;27;53;9648,Drama; Horror; Thriller; Mystery,4
+1126,Bao,sbert_lr,shuffled,16;18;35;10751,Animation; Drama; Comedy; Family,4
+3446,"Extremely Wicked, Shockingly Evil and Vile",sbert_lr,shuffled,18;53,Drama; Thriller,2
+5726,Bad Santa,sbert_lr,shuffled,14;35;10751,Fantasy; Comedy; Family,3
+7407,The Yards,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+5932,The Rebound,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+6000,Stir Crazy,sbert_lr,shuffled,18;35;80,Drama; Comedy; Crime,3
+3539,The Way We Were,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+2847,Greenland,sbert_lr,shuffled,12;28;53;878,Adventure; Action; Thriller; Science Fiction,4
+6716,The Expendables 2,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+4167,Bill & Ted's Excellent Adventure,sbert_lr,shuffled,12;18;35,Adventure; Drama; Comedy,3
+4963,The Boxtrolls,sbert_lr,shuffled,12;14;16;27;35;878;10751,Adventure; Fantasy; Animation; Horror; Comedy; Science Fiction; Family,7
+1456,Sin City,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+1387,Running on Empty,sbert_lr,shuffled,18;28;35,Drama; Action; Comedy,3
+7015,The Three Caballeros,sbert_lr,shuffled,12;35;10751,Adventure; Comedy; Family,3
+2438,Beating Hearts,sbert_lr,shuffled,18;10749,Drama; Romance,2
+8273,Gretel & Hansel,sbert_lr,shuffled,14;16;18;27;10751,Fantasy; Animation; Drama; Horror; Family,5
+6741,Lady and the Tramp II: Scamp's Adventure,sbert_lr,shuffled,12;16;18;35;10751,Adventure; Animation; Drama; Comedy; Family,5
+6386,Game of Death,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+3406,Boy Erased,sbert_lr,shuffled,18;35,Drama; Comedy,2
+7635,We're No Angels,sbert_lr,shuffled,12;18;28;53,Adventure; Drama; Action; Thriller,4
+62,Léon: The Professional,sbert_lr,shuffled,18;35;80,Drama; Comedy; Crime,3
+9345,Old People,sbert_lr,shuffled,18;27;53,Drama; Horror; Thriller,3
+7311,Wimbledon,sbert_lr,shuffled,18;35,Drama; Comedy,2
+8681,Child's Play 3,sbert_lr,shuffled,14;28;35;10751,Fantasy; Action; Comedy; Family,4
+4758,Silver Streak,sbert_lr,shuffled,18;27;53;80;9648,Drama; Horror; Thriller; Crime; Mystery,5
+2188,The Texas Chain Saw Massacre,sbert_lr,shuffled,27;35;53;9648,Horror; Comedy; Thriller; Mystery,4
+9278,Cosmopolis,sbert_lr,shuffled,18;35,Drama; Comedy,2
+9375,The House,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+2504,Only Lovers Left Alive,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+7361,Sabrina,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+8890,21 & Over,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+5301,Taxidermia,sbert_lr,shuffled,14;18;27;35,Fantasy; Drama; Horror; Comedy,4
+7172,Cold Prey,sbert_lr,shuffled,18;27;35;53,Drama; Horror; Comedy; Thriller,4
+44,Gabriel's Inferno: Part III,sbert_lr,shuffled,18;27;53,Drama; Horror; Thriller,3
+5765,Indiana Jones and the Dial of Destiny,sbert_lr,shuffled,12;18;28;35,Adventure; Drama; Action; Comedy,4
+5260,Alan Partridge: Alpha Papa,sbert_lr,shuffled,18;28;35;53,Drama; Action; Comedy; Thriller,4
+9326,Horse Girl,sbert_lr,shuffled,14;18;27;35;10749,Fantasy; Drama; Horror; Comedy; Romance,5
+202,Green Snake,sbert_lr,shuffled,18;28;53;9648;10749,Drama; Action; Thriller; Mystery; Romance,5
+7655,The Eiger Sanction,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+2662,"Ciao, Professore!",sbert_lr,shuffled,18;35,Drama; Comedy,2
+1696,Irma la Douce,sbert_lr,shuffled,18;35;53;80;10749,Drama; Comedy; Thriller; Crime; Romance,5
+7162,Pacific Heights,sbert_lr,shuffled,18;35,Drama; Comedy,2
+158,Palmer,sbert_lr,shuffled,18;35;53;80,Drama; Comedy; Thriller; Crime,4
+9686,School for Scoundrels,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+3226,Climax,sbert_lr,shuffled,18;27;35;10402,Drama; Horror; Comedy; Music,4
+5555,A Cinderella Story,sbert_lr,shuffled,27;35;53,Horror; Comedy; Thriller,3
+8549,The Mexican,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+1608,Predestination,sbert_lr,shuffled,28;53;878;9648,Action; Thriller; Science Fiction; Mystery,4
+2571,No,sbert_lr,shuffled,18;35,Drama; Comedy,2
+6950,The Cheetah Girls 2,sbert_lr,shuffled,16;18;35;10402;10751,Animation; Drama; Comedy; Music; Family,5
+8108,The Den,sbert_lr,shuffled,18;27;53;9648,Drama; Horror; Thriller; Mystery,4
+1253,Barbie: Princess Charm School,sbert_lr,shuffled,12;14;16;35;10749;10751,Adventure; Fantasy; Animation; Comedy; Romance; Family,6
+5341,The Eagle Has Landed,sbert_lr,shuffled,12;18;35;36;10752,Adventure; Drama; Comedy; History; War,5
+1474,Key Largo,sbert_lr,shuffled,18;27;53,Drama; Horror; Thriller,3
+3282,Cleopatra,sbert_lr,shuffled,18;28;53,Drama; Action; Thriller,3
+963,Boyz n the Hood,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+8661,The Break-Up,sbert_lr,shuffled,18;35;53;10749,Drama; Comedy; Thriller; Romance,4
+4989,About a Boy,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+9883,Get a Job,sbert_lr,shuffled,18;35,Drama; Comedy,2
+3034,Maleficent,sbert_lr,shuffled,14;18;35;10749,Fantasy; Drama; Comedy; Romance,4
+2688,Kahaani,sbert_lr,shuffled,18;53;10749,Drama; Thriller; Romance,3
+2482,Wonder Woman,sbert_lr,shuffled,12;14;16;28,Adventure; Fantasy; Animation; Action,4
+4851,The Thieves,sbert_lr,shuffled,12;18;28;35;53;80,Adventure; Drama; Action; Comedy; Thriller; Crime,6
+8942,To the Wonder,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+5456,Underworld: Evolution,sbert_lr,shuffled,28;35,Action; Comedy,2
+7706,God's Not Dead 2,sbert_lr,shuffled,18;35,Drama; Comedy,2
+7658,World Trade Center,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+8952,Eight Legged Freaks,sbert_lr,shuffled,12;27;28;35;878;10751,Adventure; Horror; Action; Comedy; Science Fiction; Family,6
+1644,"Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",sbert_lr,shuffled,18;35,Drama; Comedy,2
+6621,Into the Labyrinth,sbert_lr,shuffled,18;27;53;80;9648,Drama; Horror; Thriller; Crime; Mystery,5
+5564,Halloween II,sbert_lr,shuffled,27;53,Horror; Thriller,2
+939,Another Round,sbert_lr,shuffled,18;35,Drama; Comedy,2
+9245,I'm So Excited!,sbert_lr,shuffled,35,Comedy,1
+7335,Senseless,sbert_lr,shuffled,18,Drama,1
+5848,The Tearsmith,sbert_lr,shuffled,18;10749;10751,Drama; Romance; Family,3
+2053,Air,sbert_lr,shuffled,18;35,Drama; Comedy,2
+1987,Jungle Cruise,sbert_lr,shuffled,12;14;18;35;10751,Adventure; Fantasy; Drama; Comedy; Family,5
+9387,Snow Dogs,sbert_lr,shuffled,18;35;10751,Drama; Comedy; Family,3
+9452,Spinning Man,sbert_lr,shuffled,18;35;53,Drama; Comedy; Thriller,3
+8302,The Cable Guy,sbert_lr,shuffled,35;53;80,Comedy; Thriller; Crime,3
+2994,Where the Heart Is,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+6884,¡Three Amigos!,sbert_lr,shuffled,18;35;80,Drama; Comedy; Crime,3
+1018,Butch Cassidy and the Sundance Kid,sbert_lr,shuffled,12;18;28;37;53;80,Adventure; Drama; Action; Western; Thriller; Crime,6
+1296,All That Jazz,sbert_lr,shuffled,18;35;10402,Drama; Comedy; Music,3
+4193,RETURN,sbert_lr,shuffled,18;53,Drama; Thriller,2
+359,The Cure,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+1979,The Judge,sbert_lr,shuffled,18;53;80;9648,Drama; Thriller; Crime; Mystery,4
+405,Death Note Relight 1: Visions of a God,sbert_lr,shuffled,18;28;53;878,Drama; Action; Thriller; Science Fiction,4
+1050,The Curious Case of Benjamin Button,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+1495,Three Colors: White,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+5427,The Addams Family,sbert_lr,shuffled,18;35,Drama; Comedy,2
+5806,Act of Valor,sbert_lr,shuffled,12;28;53;878,Adventure; Action; Thriller; Science Fiction,4
+8208,Birth,sbert_lr,shuffled,18;53;10749,Drama; Thriller; Romance,3
+9313,Playing for Keeps,sbert_lr,shuffled,18;35,Drama; Comedy,2
+3279,The Northman,sbert_lr,shuffled,12;18;28;53,Adventure; Drama; Action; Thriller,4
+5095,Hellboy,sbert_lr,shuffled,12;14;28;10752,Adventure; Fantasy; Action; War,4
+9482,Hellboy,sbert_lr,shuffled,12;14;16;28,Adventure; Fantasy; Animation; Action,4
+770,"I, Daniel Blake",sbert_lr,shuffled,18;35;53;80,Drama; Comedy; Thriller; Crime,4
+8670,No One Gets Out Alive,sbert_lr,shuffled,18;27;53,Drama; Horror; Thriller,3
+177,"“The Shorts” by Aldo, Giovanni and Giacomo",sbert_lr,shuffled,18;35;36;10402,Drama; Comedy; History; Music,4
+2246,Lean On Me,sbert_lr,shuffled,18;28;35;80,Drama; Action; Comedy; Crime,4
+3333,Malcolm & Marie,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+1844,Dragon Ball: The Path to Power,sbert_lr,shuffled,12;16;28;35;10751,Adventure; Animation; Action; Comedy; Family,5
+2060,True Grit,sbert_lr,shuffled,18;28;35;53;80,Drama; Action; Comedy; Thriller; Crime,5
+3195,The Ministry of Ungentlemanly Warfare,sbert_lr,shuffled,12;18;28;36;10752,Adventure; Drama; Action; History; War,5
+6548,District 13: Ultimatum,sbert_lr,shuffled,18;28,Drama; Action,2
+8833,Coexister,sbert_lr,shuffled,18;35,Drama; Comedy,2
+796,The Man from Nowhere,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+4116,Mean Creek,sbert_lr,shuffled,18;35,Drama; Comedy,2
+8212,Orange County,sbert_lr,shuffled,18;35,Drama; Comedy,2
+467,My Way,sbert_lr,shuffled,18;28;36;10752,Drama; Action; History; War,4
+3641,The Eight Hundred,sbert_lr,shuffled,18;28;36;10752,Drama; Action; History; War,4
+3085,22 July,sbert_lr,shuffled,18;27;28;36;53;10752,Drama; Horror; Action; History; Thriller; War,6
+1757,Twin Peaks: Fire Walk with Me,sbert_lr,shuffled,18;27;53;9648,Drama; Horror; Thriller; Mystery,4
+3189,Death Note: The Last Name,sbert_lr,shuffled,18;28;53,Drama; Action; Thriller,3
+8097,The Gendarme and the Creatures from Outer Space,sbert_lr,shuffled,27;35;878,Horror; Comedy; Science Fiction,3
+9101,The Tunnel,sbert_lr,shuffled,18;27;35;53,Drama; Horror; Comedy; Thriller,4
+1656,Summer of 85,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+8274,What to Expect When You're Expecting,sbert_lr,shuffled,35;10749,Comedy; Romance,2
+5940,Star Trek: Generations,sbert_lr,shuffled,18;28;35;878,Drama; Action; Comedy; Science Fiction,4
+4725,Mermaids,sbert_lr,shuffled,18;35;10749;10751,Drama; Comedy; Romance; Family,4
+6282,Borat Subsequent Moviefilm,sbert_lr,shuffled,18;35;878,Drama; Comedy; Science Fiction,3
+6195,Café Society,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+1033,Elemental,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+7769,Blood Ties,sbert_lr,shuffled,18;28;53;80,Drama; Action; Thriller; Crime,4
+6731,In a World...,sbert_lr,shuffled,18;35;10402;10749;10751,Drama; Comedy; Music; Romance; Family,5
+5081,Martian Child,sbert_lr,shuffled,12;14;18;35;878;10751,Adventure; Fantasy; Drama; Comedy; Science Fiction; Family,6
+7639,Final Destination 5,sbert_lr,shuffled,14;18;27;28;53;878,Fantasy; Drama; Horror; Action; Thriller; Science Fiction,6
+2157,Weekend,sbert_lr,shuffled,35;10749,Comedy; Romance,2
+3203,Lee,sbert_lr,shuffled,18;36;10752,Drama; History; War,3
+2237,The Hours,sbert_lr,shuffled,18;35;10749,Drama; Comedy; Romance,3
+2600,The Caine Mutiny,sbert_lr,shuffled,18,Drama,1
+9444,Airport '77,sbert_lr,shuffled,12;27;28;35;53,Adventure; Horror; Action; Comedy; Thriller,5
+6273,The Chronicles of Narnia: The Voyage of the Dawn Treader,sbert_lr,shuffled,12;14;16;35;10751,Adventure; Fantasy; Animation; Comedy; Family,5

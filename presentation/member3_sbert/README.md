@@ -1,26 +1,25 @@
-# Member 3 Presentation Materials
+# Member 3 presentation materials — official six-input version
 
 ## Figures
 
-The `figures/` directory contains seven 16:9 English slides as PNG files:
+The `figures/` directory contains seven English 16:9 PNG slides:
 
 1. Why use Sentence-BERT?
 2. SBERT pipeline and threshold selection
-3. Official SBERT results
+3. Main SBERT results
 4. Exact-match success examples
 5. Failure mechanisms
-6. Perturbation robustness results
+6. Official six-input robustness results
 7. Mechanistic interpretation
 
-The files can be dragged directly into the shared PowerPoint deck.
+Slides 6 and 7 were regenerated from
+`research/results/sbert_lr/sbert_official_six_metrics.csv`. They replace the
+earlier non-official multi-level perturbation figures.
 
-## Slides
+## Slides and scripts
 
-- `Section03_SBERT_English_Insertable_Slides.pptx`: English insertable section
-- `3号_SBERT结果模块.pptx`: earlier Member 3 result module
-
-## Scripts
-
-- `Member3_SBERT_Final_Presentation_Script.md`: final ordered speaking script
-- `Section03_SBERT_English_Speaker_Script.md`: detailed English speaker notes
-- `3号_SBERT_PPT大纲.md`: Member 3 slide outline
+- `slides/Section03_SBERT_English_Insertable_Slides.pptx`: editable core SBERT
+  section (slides 1–5); PNG slides 6–7 can be inserted directly afterward
+- `scripts/Member3_SBERT_Official_Six_English_Script.md`: final English script
+- `scripts/Member3_SBERT_Official_Six_Chinese_Script.md`: matching Chinese script
+- `scripts/build_official_six_figures.py`: reproducible generator for slides 6–7
