@@ -1,0 +1,10 @@
+file,method,strength,seed,rows,changed_rows,changed_row_pct,mean_original_words,mean_output_words,mask_tokens,reproducible
+test_shuffle_25.csv,shuffle,0.25,42,1198,1198,100.0,45.98,45.98,0,True
+test_shuffle_50.csv,shuffle,0.5,42,1198,1198,100.0,45.98,45.98,0,True
+test_shuffle_100.csv,shuffle,1.0,42,1198,1198,100.0,45.98,45.98,0,True
+test_mask_10.csv,mask,0.1,42,1198,814,67.95,45.98,45.98,814,True
+test_mask_30.csv,mask,0.3,42,1198,814,67.95,45.98,45.98,904,True
+test_mask_50.csv,mask,0.5,42,1198,814,67.95,45.98,45.98,1060,True
+test_truncate_25.csv,truncate,0.25,42,1198,1198,100.0,45.98,11.87,0,True
+test_truncate_50.csv,truncate,0.5,42,1198,1198,100.0,45.98,23.24,0,True
+test_truncate_75.csv,truncate,0.75,42,1198,1197,99.92,45.98,34.86,0,True
